@@ -1,0 +1,128 @@
+---
+title: "Awesome ggplot2 Resources"
+output: 
+  flexdashboard::flex_dashboard:
+    theme: cosmo
+    orientation: rows
+    vertical_layout: fill
+    social: menu
+    source_code: embed
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(jsonlite)
+library(dplyr)
+library(reactable)
+library(htmltools)
+library(stringr)
+
+# Read JSON data
+json_data <- fromJSON("readme_data.json", simplifyVector = FALSE)
+
+# Helper function to flatten the JSON structure into a dataframe
+flatten_json <- function(json_data) {
+  rows <- list()
+  
+  for (section_name in names(json_data)) {
+    section <- json_data[[section_name]]
+    
+    if (is.list(section)) {
+      for (subsection_name in names(section)) {
+        subsection <- section[[subsection_name]]
+        
+        if (is.list(subsection)) {
+          for (item in subsection) {
+            if (!is.null(item$name)) {
+              rows[[length(rows) + 1]] <- list(
+                section = section_name,
+                subsection = subsection_name,
+                name = item$name,
+                url = item$url,
+                description = item$description
+              )
+            }
+          }
+        }
+      }
+    }
+  }
+  
+  df <- do.call(rbind.data.frame, rows)
+  return(df)
+}
+
+# Convert JSON to dataframe
+resources_df <- flatten_json(json_data)
+```
+
+Column {.sidebar}
+=====================================
+
+### About
+
+This dashboard provides an interactive way to explore awesome ggplot2 resources. Use the built-in table filters and search functionality to find resources. Click on resource names to visit their websites.
+
+Features:
+
+- Filter by any column
+- Full-text search across all fields
+- Sortable columns
+- Direct links to resources
+- Responsive layout
+
+Statistics:
+- Total Resources: `r nrow(resources_df)`
+- Categories: `r length(unique(resources_df$section))`
+
+Main Content
+=====================================
+
+### ggplot2 Resources {.no-padding}
+
+```{r}
+reactable(
+  resources_df,
+  filterable = TRUE,
+  searchable = TRUE,
+  striped = TRUE,
+  highlight = TRUE,
+  compact = TRUE,
+  defaultPageSize = 20,
+  defaultSorted = list(section = "asc"),
+  columns = list(
+    section = colDef(
+      name = "Section",
+      minWidth = 150,
+      filterInput = function(values) {
+        tags$select(
+          tags$option(value = "", "All"),
+          lapply(unique(values), function(value) {
+            tags$option(value = value, value)
+          })
+        )
+      }
+    ),
+    subsection = colDef(
+      name = "Subsection",
+      minWidth = 150
+    ),
+    name = colDef(
+      name = "Name",
+      minWidth = 200,
+      cell = function(value, index) {
+        url <- resources_df$url[index]
+        if (url != "") {
+          tags$a(href = url, target = "_blank", value)
+        } else {
+          value
+        }
+      }
+    ),
+    description = colDef(
+      name = "Description",
+      minWidth = 300
+    ),
+    url = colDef(show = FALSE)
+  )
+)

@@ -1,0 +1,2996 @@
+{
+  "Awesome `ggplot2` [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [<img src=\"https://raw.githubusercontent.com/rstudio/hex-stickers/master/PNG/ggplot2.png\" align=\"right\" width=\"150\">](https://ggplot2.tidyverse.org/)": [],
+  "General": [
+    {
+      "name": "Official website",
+      "url": "https://ggplot2.tidyverse.org/",
+      "description": ""
+    },
+    {
+      "name": "Reference",
+      "url": "https://ggplot2.tidyverse.org/reference/index.html",
+      "description": "*"
+    },
+    {
+      "name": "A List of ggplot2 extensions",
+      "url": "https://exts.ggplot2.tidyverse.org/",
+      "description": ""
+    }
+  ],
+  "Persons (Webpage + Mastodon)": [
+    {
+      "name": "Hadley Wickham",
+      "url": "http://hadley.nz/",
+      "description": "([@hadleywickham](https://fosstodon.org/@hadleywickham))"
+    },
+    {
+      "name": "Kieran Healy",
+      "url": "https://kieranhealy.org/",
+      "description": "([@kjhealy](https://mastodon.social/@kjhealy))"
+    },
+    {
+      "name": "Claus Wilke",
+      "url": "https://clauswilke.com/",
+      "description": ""
+    },
+    {
+      "name": "Thomas Lin Pedersen",
+      "url": "https://www.data-imaginist.com/",
+      "description": ""
+    },
+    {
+      "name": "@winston_chang",
+      "url": "https://mastodon.social/@winston_chang",
+      "description": "Winston Chang ()"
+    },
+    {
+      "name": "Lionel Henry",
+      "url": "https://github.com/lionel-",
+      "description": "([@lionel](https://floss.social/@lionel))"
+    },
+    {
+      "name": "Kara Woo",
+      "url": "https://karawoo.com/",
+      "description": ""
+    },
+    {
+      "name": "Hiroaki Yutani",
+      "url": "https://yutani.rbind.io/",
+      "description": ""
+    },
+    {
+      "name": "Dewey Dunnington",
+      "url": "https://fishandwhistle.net/",
+      "description": ""
+    }
+  ],
+  "R packages": [],
+  "Plot layers": [
+    {
+      "name": "biscale",
+      "url": "https://chris-prener.github.io/biscale/",
+      "description": "Bivariate Mapping with ggplot2"
+    },
+    {
+      "name": "calendR",
+      "url": "https://github.com/R-CoderDotCom/calendR",
+      "description": "Fully customizable ready to print monthly and yearly calendars made with ggplot2"
+    },
+    {
+      "name": "complex-upset",
+      "url": "https://krassowski.github.io/complex-upset/",
+      "description": "A library for creating complex UpSet plots with ggplot2 geoms"
+    },
+    {
+      "name": "corrmorant",
+      "url": "https://github.com/r-link/corrmorant",
+      "description": "R package for flexible correlation matrices based on ggplot2"
+    },
+    {
+      "name": "dbplot",
+      "url": "https://edgararuiz.github.io/dbplot/",
+      "description": "Simplifies plotting of database and sparklyr data"
+    },
+    {
+      "name": "directlabels",
+      "url": "https://tdhock.github.io/directlabels/",
+      "description": "Direct labels for multicolor plots in lattice or ggplot2"
+    },
+    {
+      "name": "donutsk",
+      "url": "https://dkibalnikov.github.io/donutsk/",
+      "description": "Construct Advanced Donut Charts"
+    },
+    {
+      "name": "easyalluvial",
+      "url": "https://erblast.github.io/easyalluvial/",
+      "description": "Create alluvial plots with a single line of code"
+    },
+    {
+      "name": "econocharts",
+      "url": "https://r-coder.com/economics-charts-r/",
+      "description": "Economics charts in R using ggplot2"
+    },
+    {
+      "name": "effectclass",
+      "url": "https://inbo.github.io/effectclass/",
+      "description": "Display uncertainty and effect classification with ggplot2 or plotly"
+    },
+    {
+      "name": "ezplot",
+      "url": "https://cran.r-project.org/web/packages/ezplot/",
+      "description": "Functions for Common Chart Types"
+    },
+    {
+      "name": "flowmapper",
+      "url": "https://github.com/JohMast/flowmapper",
+      "description": "Draw flows (migration, goods, money, information) on ggplots"
+    },
+    {
+      "name": "ganttrify",
+      "url": "https://ganttrify.europeandatajournalism.eu/",
+      "description": "Create beautiful Gantt charts with ggplot2"
+    },
+    {
+      "name": "geomtextpath",
+      "url": "https://allancameron.github.io/geomtextpath/",
+      "description": "Create curved text paths in ggplot2"
+    },
+    {
+      "name": "gg1d",
+      "url": "https://selkamand.github.io/gg1d/",
+      "description": "Exploratory Data Analysis using Tiled One-Dimensional Graphics"
+    },
+    {
+      "name": "ggalignment",
+      "url": "https://github.com/aftonsteps/ggalignment",
+      "description": "R package for creating D&D alignment charts"
+    },
+    {
+      "name": "ggalluvial",
+      "url": "http://corybrunson.github.io/ggalluvial/",
+      "description": "ggplot2 extension for alluvial plots"
+    },
+    {
+      "name": "ggalt",
+      "url": "https://github.com/hrbrmstr/ggalt",
+      "description": "Extra Coordinate Systems, Geoms, Statistical Transformations & Scales for 'ggplot2'"
+    },
+    {
+      "name": "ggambit",
+      "url": "https://github.com/cj-holmes/ggambit",
+      "description": "Visualise FEN chess positions with ggplot2"
+    },
+    {
+      "name": "gganatogram",
+      "url": "https://github.com/jespermaag/gganatogram",
+      "description": "Create anatograms using ggplot2"
+    },
+    {
+      "name": "ggarchery",
+      "url": "https://github.com/mdhall272/ggarchery",
+      "description": "Flexible segment geoms with arrows for ggplot2"
+    },
+    {
+      "name": "ggarrow",
+      "url": "https://teunbrand.github.io/ggarrow/",
+      "description": "ggplot2 extension: more options for drawing arrows"
+    },
+    {
+      "name": "ggasym",
+      "url": "https://jhrcook.github.io/ggasym/index.html",
+      "description": "Plots three different color schemes on the top-left and bottom-right triangles and the diagonal of a symmetric matrix"
+    },
+    {
+      "name": "ggbeeswarm",
+      "url": "https://github.com/eclarke/ggbeeswarm",
+      "description": "Column scatter / beeswarm-style plots in ggplot2"
+    },
+    {
+      "name": "ggblanket",
+      "url": "https://davidhodge931.github.io/ggblanket/",
+      "description": "Simplify ggplot2 visualisation"
+    },
+    {
+      "name": "ggblend",
+      "url": "https://mjskay.github.io/ggblend/",
+      "description": "Support for blend modes in ggplot2"
+    },
+    {
+      "name": "ggblur",
+      "url": "https://github.com/coolbutuseless/ggblur",
+      "description": "Blurry Point Geom for ggplot2"
+    },
+    {
+      "name": "ggborderline",
+      "url": "https://wurli.github.io/ggborderline",
+      "description": "Provides a set of geoms to make line plots a little bit nicer"
+    },
+    {
+      "name": "ggbrace",
+      "url": "https://github.com/NicolasH2/ggbrace",
+      "description": "Curly Braces for 'ggplot2'"
+    },
+    {
+      "name": "ggbraid",
+      "url": "https://nsgrantham.github.io/ggbraid/",
+      "description": "Braid two lines and a ribbon in ggplot2"
+    },
+    {
+      "name": "ggbrain",
+      "url": "https://michaelhallquist.github.io/ggbrain/",
+      "description": "R package for creating plots of brains using ggplot"
+    },
+    {
+      "name": "ggbrick",
+      "url": "https://github.com/doehm/ggbrick",
+      "description": "A brick like geom for ggplot2"
+    },
+    {
+      "name": "ggbump",
+      "url": "https://github.com/davidsjoberg/ggbump",
+      "description": "A geom for ggplot to create bump plots"
+    },
+    {
+      "name": "ggcalendar",
+      "url": "https://github.com/EvaMaeRey/ggcalendar",
+      "description": "x and y position as days in month"
+    },
+    {
+      "name": "ggcats",
+      "url": "https://github.com/R-CoderDotCom/ggcats",
+      "description": "The geom you always wished for adding cats to ggplot2"
+    },
+    {
+      "name": "ggchicklet",
+      "url": "https://cinc.rud.is/web/packages/ggchicklet/",
+      "description": "Create Chicklet (Rounded Segmented Column) Charts"
+    },
+    {
+      "name": "ggcleveland",
+      "url": "https://github.com/mpru/ggcleveland",
+      "description": "Implementation of plots from Cleveland's Visualizing Data book in ggplot2"
+    },
+    {
+      "name": "ggconsort",
+      "url": "https://tgerke.github.io/ggconsort/",
+      "description": "An R package for creating CONSORT diagrams with ggplot"
+    },
+    {
+      "name": "ggcorrplot",
+      "url": "https://rpkgs.datanovia.com/ggcorrplot/",
+      "description": "Visualization of a correlation matrix using ggplot2"
+    },
+    {
+      "name": "ggcorr",
+      "url": "https://briatte.github.io/ggcorr/",
+      "description": "Correlation matrixes with ggplot2"
+    },
+    {
+      "name": "ggcorset",
+      "url": "https://github.com/kbelisar/ggcorset",
+      "description": "Introducing corset plots"
+    },
+    {
+      "name": "ggpcp",
+      "url": "https://cran.r-project.org/web/packages/ggpcp/index.html",
+      "description": "Parallel Coordinate Plots in the 'ggplot2' Framework"
+    },
+    {
+      "name": "ggdemetra",
+      "url": "https://aqlt.github.io/ggdemetra/",
+      "description": "ggplot2 extension for seasonal and trading day adjustment with RJDemetra"
+    },
+    {
+      "name": "ggdensity",
+      "url": "https://jamesotto852.github.io/ggdensity/",
+      "description": "An R package for interpretable visualizations of density estimates"
+    },
+    {
+      "name": "ggeconodist",
+      "url": "https://github.com/hrbrmstr/ggeconodist",
+      "description": "Create Diminutive Distribution Charts"
+    },
+    {
+      "name": "ggdag",
+      "url": "https://ggdag.malco.io/",
+      "description": "An R Package for visualizing and analyzing causal directed acyclic graphs"
+    },
+    {
+      "name": "ggdaynight",
+      "url": "https://github.com/GabrielSlPires/ggdaynight",
+      "description": "Add Day/Night Patterns to ggplot2 Plots"
+    },
+    {
+      "name": "ggdirectlabel",
+      "url": "https://github.com/MattCowgill/ggdirectlabel",
+      "description": "Make it easier to directly label ggplot2 charts"
+    },
+    {
+      "name": "ggdist",
+      "url": "https://mjskay.github.io/ggdist/",
+      "description": "Visualizations of distributions and uncertainty"
+    },
+    {
+      "name": "ggDoubleHeat",
+      "url": "https://pursuitofdatascience.github.io/ggDoubleHeat/",
+      "description": "A heatmap-like visualization tool"
+    },
+    {
+      "name": "ggExtra",
+      "url": "https://github.com/daattali/ggExtra",
+      "description": "Add marginal histograms to ggplot2, and more ggplot2 enhancements"
+    },
+    {
+      "name": "ggfacto",
+      "url": "https://github.com/BriceNocenti/ggfacto",
+      "description": "Graphs for correspondence analysis"
+    },
+    {
+      "name": "ggflowchart",
+      "url": "https://nrennie.github.io/ggflowchart/",
+      "description": "R package for producing flowcharts using ggplot2"
+    },
+    {
+      "name": "ggfootball",
+      "url": "http://aymennasri.me/ggfootball/",
+      "description": "Plotting Expected Goals (xG) Stats with 'Understat' Data"
+    },
+    {
+      "name": "ggfreehand",
+      "url": "https://github.com/dgrtwo/ggfreehand",
+      "description": "Add freehand circles to ggplot2 graphs"
+    },
+    {
+      "name": "ggfun",
+      "url": "https://github.com/YuLab-SMU/ggfun",
+      "description": "Miscellaneous Functions for 'ggplot2'"
+    },
+    {
+      "name": "gggenes",
+      "url": "https://github.com/wilkox/gggenes",
+      "description": "Draw gene arrow maps in ggplot2"
+    },
+    {
+      "name": "gggenomes",
+      "url": "https://thackl.github.io/gggenomes/",
+      "description": "A grammar of graphics for comparative genomics"
+    },
+    {
+      "name": "gggibbous",
+      "url": "https://github.com/mnbram/gggibbous",
+      "description": "Moon charts, a pie chart alternative, for ggplot2"
+    },
+    {
+      "name": "gghalves",
+      "url": "https://erocoar.github.io/gghalves/",
+      "description": "Easy half-half geoms in ggplot2"
+    },
+    {
+      "name": "gghdr",
+      "url": "https://github.com/Sayani07/gghdr",
+      "description": "Plots of highest density regions (HDR) for ggplot2"
+    },
+    {
+      "name": "gghilbertstrings",
+      "url": "https://sumidu.github.io/gghilbertstrings/",
+      "description": "Create Hilbert curves in ggplot2"
+    },
+    {
+      "name": "ggHoriPlot",
+      "url": "https://rivasiker.github.io/ggHoriPlot/",
+      "description": "build horizon plots in ggplot2"
+    },
+    {
+      "name": "gghourglass",
+      "url": "https://pepijn-devries.github.io/gghourglass/",
+      "description": "Plot Records per Time of Day"
+    },
+    {
+      "name": "ggimg",
+      "url": "https://github.com/statsmaths/ggimg",
+      "description": "Graphics Layers for Plotting Image Data with ggplot2"
+    },
+    {
+      "name": "ggkeyboard",
+      "url": "https://github.com/sharlagelfand/ggkeyboard",
+      "description": "Make a keyboard using ggplot2"
+    },
+    {
+      "name": "ggmacc",
+      "url": "https://github.com/aj-sykes92/ggmacc",
+      "description": "R package repository for building marginal abatement cost curves with ggplot2"
+    },
+    {
+      "name": "ggmosaic",
+      "url": "https://haleyjeppson.github.io/ggmosaic/",
+      "description": "Mosaicplots in the ggplot2 framework"
+    },
+    {
+      "name": "ggmsa",
+      "url": "http://yulab-smu.top/ggmsa/",
+      "description": "a visual exploration tool for multiple sequence alignment and associated data"
+    },
+    {
+      "name": "ggmulti",
+      "url": "https://github.com/great-northern-diver/ggmulti",
+      "description": "Package for adding some multivariate visualizations to ggplot2"
+    },
+    {
+      "name": "ggnormalviolin",
+      "url": "https://wjschne.github.io/ggnormalviolin/index.html",
+      "description": "Makes normal violin plots with specified means and standard deviations"
+    },
+    {
+      "name": "ggonion",
+      "url": "https://i2z1.github.io/ggonion/",
+      "description": "R package for drawing onion diagrams via ggplot2"
+    },
+    {
+      "name": "ggordiplots",
+      "url": "https://github.com/jfq3/ggordiplots",
+      "description": "Make ggplot Versions of Vegan's Ordiplots"
+    },
+    {
+      "name": "ggpackets",
+      "url": "https://dgkf.github.io/ggpackets/",
+      "description": "Cleaner composition of ggplot layers"
+    },
+    {
+      "name": "ggparliament",
+      "url": "https://github.com/RobWHickman/ggparliament",
+      "description": "Simple parliament plots using ggplot2"
+    },
+    {
+      "name": "ggpercentogram",
+      "url": "https://github.com/eliocamp/ggpercentogram",
+      "description": "Create equal-area histograms with 'ggplot2'"
+    },
+    {
+      "name": "ggpie",
+      "url": "https://github.com/Rkabacoff/ggpie",
+      "description": "Create pie charts using ggplot2"
+    },
+    {
+      "name": "ggPlantmap",
+      "url": "https://github.com/leonardojo/ggPlantmap",
+      "description": "Generate ggplot maps from plant images"
+    },
+    {
+      "name": "ggplateplot",
+      "url": "https://github.com/teunbrand/ggplateplot",
+      "description": "make plots resembling cell culture microwell plates"
+    },
+    {
+      "name": "ggpointdensity",
+      "url": "https://github.com/LKremer/ggpointdensity",
+      "description": "A Cross Between a Scatter Plot and a 2D Density Plot"
+    },
+    {
+      "name": "ggpointgrid",
+      "url": "https://github.com/nevrome/ggpointgrid",
+      "description": "Rearrange scatter plot points on a regular grid"
+    },
+    {
+      "name": "ggpointless",
+      "url": "https://flrd.github.io/ggpointless/",
+      "description": "A point layer to emphasize some observations"
+    },
+    {
+      "name": "ggpolar",
+      "url": "https://github.com/ShixiangWang/polar",
+      "description": "Dots and Their Connections in Polar Coordinate System"
+    },
+    {
+      "name": "ggsankeyfier",
+      "url": "https://pepijn-devries.github.io/ggsankeyfier/",
+      "description": "Create Sankey and Alluvial Diagrams Using ggplot2"
+    },
+    {
+      "name": "ggsector",
+      "url": "https://github.com/yanpd01/ggsector",
+      "description": "Use R language to draw sector"
+    },
+    {
+      "name": "ggseqlogo",
+      "url": "https://omarwagih.github.io/ggseqlogo/",
+      "description": "Generating publication-ready sequence logos in R using ggseqlogo"
+    },
+    {
+      "name": "ggshadow",
+      "url": "https://github.com/marcmenem/ggshadow",
+      "description": "Shadow Geoms for ggplot2"
+    },
+    {
+      "name": "ggshakeR",
+      "url": "https://github.com/abhiamishra/ggshakeR",
+      "description": "An analysis and visualization R package that works with publicly available soccer data"
+    },
+    {
+      "name": "ggsoccer",
+      "url": "https://torvaney.github.io/ggsoccer/",
+      "description": "Plot soccer event data in R/ggplot2"
+    },
+    {
+      "name": "ggspectra",
+      "url": "https://bitbucket.org/aphalo/ggspectra/",
+      "description": "Plotting spectra with ggplot2"
+    },
+    {
+      "name": "ggstackplot",
+      "url": "https://ggstackplot.kopflab.org/",
+      "description": "Create Overlapping Stacked Plots"
+    },
+    {
+      "name": "ggstamp",
+      "url": "https://evamaerey.github.io/ggstamp/",
+      "description": "stamp_* as an API for annotation layers"
+    },
+    {
+      "name": "ggstance",
+      "url": "https://github.com/lionel-/ggstance",
+      "description": "Horizontal ggplot2 components"
+    },
+    {
+      "name": "ggsurveillance",
+      "url": "https://ggsurveillance.biostats.dev/",
+      "description": "Tools and 'ggplot2' Extensions for Infectious Disease Surveillance and Outbreak Investigation"
+    },
+    {
+      "name": "ggpage",
+      "url": "https://emilhvitfeldt.github.io/ggpage/",
+      "description": "Creates Page Layout Visualizations in R"
+    },
+    {
+      "name": "ggparallel",
+      "url": "https://heike.github.io/ggparallel/",
+      "description": "R package for creating hammock plots and parallel sets plots using the ggplot2 framework"
+    },
+    {
+      "name": "ggperiodic",
+      "url": "https://github.com/eliocamp/ggperiodic",
+      "description": "Easy plotting of periodic data with ggplot2"
+    },
+    {
+      "name": "ggplate",
+      "url": "https://jpquast.github.io/ggplate/",
+      "description": "Create Layout Plots of Biological Culture Plates and Microplates"
+    },
+    {
+      "name": "ggpol",
+      "url": "https://github.com/erocoar/ggpol",
+      "description": "Parliament diagrams and more for ggplot2"
+    },
+    {
+      "name": "ggpolypath",
+      "url": "https://mdsumner.github.io/ggpolypath/",
+      "description": "Polygons with holes for ggplot2"
+    },
+    {
+      "name": "ggpp",
+      "url": "https://github.com/aphalo/ggpp",
+      "description": "Grammar of graphics extensions to 'ggplot2'"
+    },
+    {
+      "name": "ggpubr",
+      "url": "https://rpkgs.datanovia.com/ggpubr/",
+      "description": "'ggplot2' Based Publication Ready Plots"
+    },
+    {
+      "name": "ggquiver",
+      "url": "http://pkg.mitchelloharawild.com/ggquiver/",
+      "description": "R package for quiver plots in 'ggplot2'"
+    },
+    {
+      "name": "ggqr",
+      "url": "https://github.com/coolbutuseless/ggqr",
+      "description": "ggplot2 geom for QR codes"
+    },
+    {
+      "name": "ggradar",
+      "url": "https://github.com/ricardo-bion/ggradar",
+      "description": "radar charts with ggplot2"
+    },
+    {
+      "name": "ggrain",
+      "url": "https://github.com/njudd/ggrain",
+      "description": "Make beautiful Raincloud plots in R"
+    },
+    {
+      "name": "ggraph",
+      "url": "https://ggraph.data-imaginist.com/",
+      "description": "A grammar of graphics for relational data"
+    },
+    {
+      "name": "ggrastr",
+      "url": "https://github.com/VPetukhov/ggrastr",
+      "description": "Raster geoms for ggplot2"
+    },
+    {
+      "name": "ggrepel",
+      "url": "https://ggrepel.slowkow.com/",
+      "description": "Repel overlapping text labels away from each other"
+    },
+    {
+      "name": "ggreverse",
+      "url": "https://github.com/coolbutuseless/ggreverse",
+      "description": "Reverse a ggplot object back into code"
+    },
+    {
+      "name": "ggrgl",
+      "url": "https://coolbutuseless.github.io/package/ggrgl/",
+      "description": "3D Graphics Using the Grammar of Graphics"
+    },
+    {
+      "name": "ggridges",
+      "url": "https://wilkelab.org/ggridges/",
+      "description": "Ridgeline plots in ggplot2"
+    },
+    {
+      "name": "ggrounded",
+      "url": "https://botan.github.io/ggrounded/",
+      "description": "Rounded Bar Plots"
+    },
+    {
+      "name": "ggsankey",
+      "url": "https://github.com/davidsjoberg/ggsankey",
+      "description": "The goal of ggsankey is to make beautiful sankey, alluvial and sankey bump plots in ggplot2"
+    },
+    {
+      "name": "ggsc",
+      "url": "https://github.com/YuLab-SMU/ggsc",
+      "description": "Visualizing single cell data"
+    },
+    {
+      "name": "ggScatRidges",
+      "url": "https://github.com/matbou85/ggScatRidges",
+      "description": "Scatter Plot Combined with Ridgelines in 'ggplot2'"
+    },
+    {
+      "name": "ggscidca",
+      "url": "https://cran.r-project.org/web/packages/ggscidca/",
+      "description": "Plotting Decision Curve Analysis with Coloured Bars"
+    },
+    {
+      "name": "ggseqplot",
+      "url": "https://maraab23.github.io/ggseqplot/",
+      "description": "Render Sequence Plots using 'ggplot2'"
+    },
+    {
+      "name": "ggside",
+      "url": "https://github.com/jtlandis/ggside",
+      "description": "ggplot2 extension allowing for plotting various geometries as side panels"
+    },
+    {
+      "name": "ggsignif",
+      "url": "https://github.com/const-ae/ggsignif",
+      "description": "Easily add significance brackets to your ggplots"
+    },
+    {
+      "name": "ggsolar",
+      "url": "https://github.com/hrbrmstr/ggsolar",
+      "description": "Generate \"solar system\" plots with {ggplot2}"
+    },
+    {
+      "name": "ggspark",
+      "url": "https://github.com/marcboschmatas/ggspark",
+      "description": "ggplot2 Functions to Create Tufte Style Sparklines"
+    },
+    {
+      "name": "ggstraw",
+      "url": "https://github.com/nacnudus/ggstraw",
+      "description": "geom_straw for ggplot2"
+    },
+    {
+      "name": "ggstream",
+      "url": "https://github.com/davidsjoberg/ggstream",
+      "description": "A package to make streamplots"
+    },
+    {
+      "name": "ggsvg",
+      "url": "https://github.com/coolbutuseless/ggsvg",
+      "description": "Use SVG images as ggplot points"
+    },
+    {
+      "name": "ggtaxplot",
+      "url": "https://gitlab.com/ccoclet/ggtaxplot",
+      "description": "Create Plots to Visualize Taxonomy"
+    },
+    {
+      "name": "ggtda",
+      "url": "https://github.com/rrrlw/ggtda",
+      "description": "ggplot2 extension to visualize persistent homology"
+    },
+    {
+      "name": "ggtern",
+      "url": "http://www.ggtern.com/",
+      "description": "An extension to ggplot2, for the creation of ternary diagrams"
+    },
+    {
+      "name": "ggtikz",
+      "url": "https://github.com/osthomas/ggtikz",
+      "description": "Add TikZ annotations with absolute data or relative plot coordinates to ggplots"
+    },
+    {
+      "name": "ggthreed",
+      "url": "https://github.com/coolbutuseless/ggthreed",
+      "description": "3d geoms and stats for ggplot"
+    },
+    {
+      "name": "ggtree",
+      "url": "https://github.com/YuLab-SMU/ggtree",
+      "description": "Visualization and annotation of phylogenetic trees"
+    },
+    {
+      "name": "ggtrendline",
+      "url": "https://github.com/PhDMeiwp/ggtrendline",
+      "description": "An R Package for Adding Trendline and Confidence Interval to \"ggplot\""
+    },
+    {
+      "name": "ggtricks",
+      "url": "https://abdoulma.github.io/ggtricks/",
+      "description": "Create Sector and Other Charts Easily Using Grammar of Graphics"
+    },
+    {
+      "name": "ggvenn",
+      "url": "https://github.com/yanlinlin82/ggvenn",
+      "description": "Venn Diagram by ggplot2, with really easy-to-use API"
+    },
+    {
+      "name": "ggVennDiagram",
+      "url": "https://github.com/gaospecial/ggVennDiagram",
+      "description": "A 'ggplot2' implement of Venn Diagram"
+    },
+    {
+      "name": "ggvfields",
+      "url": "https://dustysturner.com/ggvfields/",
+      "description": "Vector Field Visualizations with 'ggplot2'"
+    },
+    {
+      "name": "ggvolcano",
+      "url": "https://cran.r-project.org/web/packages/ggvolcano/",
+      "description": "Publication-Ready Volcano Plots"
+    },
+    {
+      "name": "ggvoronoi",
+      "url": "https://github.com/garretrc/ggvoronoi/",
+      "description": "Easy Voronoi diagram heatmaps with ggplot2"
+    },
+    {
+      "name": "ggvwline",
+      "url": "https://github.com/Hy4m/ggvwline",
+      "description": "Layer functions for drawing variable-width curves"
+    },
+    {
+      "name": "ggwaffle",
+      "url": "https://liamgilbey.github.io/ggwaffle/",
+      "description": "Creating waffle charts in a ggplot friendly way"
+    },
+    {
+      "name": "ggweekly",
+      "url": "https://github.com/gadenbuie/ggweekly",
+      "description": "Easy, printable, custom calendars and week planners"
+    },
+    {
+      "name": "ggwordcloud",
+      "url": "https://lepennec.github.io/ggwordcloud/",
+      "description": "A word cloud geom for ggplot2"
+    },
+    {
+      "name": "ggxmean",
+      "url": "https://github.com/EvaMaeRey/ggxmean",
+      "description": "Put a vertical line at the mean of x w/ geom_xmean() and do other stuff"
+    },
+    {
+      "name": "jjPlot",
+      "url": "https://github.com/junjunlab/jjPlot",
+      "description": "funny geom/stat functions for visualization"
+    },
+    {
+      "name": "likert",
+      "url": "https://jbryer.github.io/likert/",
+      "description": "Analysis and Visualization Likert Items"
+    },
+    {
+      "name": "linkET",
+      "url": "https://github.com/Hy4m/linkET",
+      "description": "Toolbox for heatmap and mantel test plot."
+    },
+    {
+      "name": "parttree",
+      "url": "https://github.com/grantmcdermott/parttree",
+      "description": "Simple package for plotting decision tree partitions in R"
+    },
+    {
+      "name": "patternplot",
+      "url": "https://cran.r-project.org/web/packages/patternplot/",
+      "description": "Versatile Pie Charts, Ring Charts, Bar Charts and Box Plots using Patterns, Colors and Images"
+    },
+    {
+      "name": "plotcli",
+      "url": "https://github.com/cheuerde/plotcli",
+      "description": "Convert ggplot2 objects to colored terminal plots"
+    },
+    {
+      "name": "plotthis",
+      "url": "https://pwwang.github.io/plotthis/",
+      "description": "High-Level Plotting Built Upon 'ggplot2' and Other Plotting Packages"
+    },
+    {
+      "name": "qbinplots",
+      "url": "https://edwindj.github.io/qbinplots/",
+      "description": "Quantile Binned Plots"
+    },
+    {
+      "name": "scatterbar",
+      "url": "https://github.com/JEFworks-Lab/scatterbar",
+      "description": "Scattered Stacked Bar Chart Plots"
+    },
+    {
+      "name": "scattermore",
+      "url": "https://github.com/exaexa/scattermore",
+      "description": "very fast scatterplots for R"
+    },
+    {
+      "name": "see",
+      "url": "https://easystats.github.io/see/",
+      "description": "Visualisation toolbox for beautiful and publication-ready figures"
+    },
+    {
+      "name": "shadowtext",
+      "url": "https://github.com/GuangchuangYu/shadowtext",
+      "description": "shadow text for grid and ggplot2"
+    },
+    {
+      "name": "smplot2",
+      "url": "https://github.com/smin95/smplot2",
+      "description": "Create and annotate composite plots in R and ggplot2"
+    },
+    {
+      "name": "superheat",
+      "url": "https://rlbarter.github.io/superheat/",
+      "description": "An R package for generating beautiful and customizable heatmaps"
+    },
+    {
+      "name": "swimplot",
+      "url": "https://cran.r-project.org/web/packages/swimplot/",
+      "description": "Tools for Creating Swimmers Plots using 'ggplot2'"
+    },
+    {
+      "name": "tidyplots",
+      "url": "https://jbengler.github.io/tidyplots/",
+      "description": "Tidy Plots for Scientific Papers"
+    },
+    {
+      "name": "treemapify",
+      "url": "http://wilkox.org/treemapify/",
+      "description": "Draw treemaps in ggplot2"
+    },
+    {
+      "name": "visdat",
+      "url": "https://docs.ropensci.org/visdat/",
+      "description": "Preliminary Exploratory Visualisation of Data"
+    },
+    {
+      "name": "waffle",
+      "url": "https://github.com/hrbrmstr/waffle",
+      "description": "Make waffle (square pie) charts in R"
+    },
+    {
+      "name": "waterfalls",
+      "url": "https://github.com/hughparsonage/waterfalls",
+      "description": "R package to create waterfall charts"
+    },
+    {
+      "name": "WVPlots",
+      "url": "https://winvector.github.io/WVPlots/",
+      "description": "Pre-packaged plots in R"
+    }
+  ],
+  "Themes and aesthetics": [
+    {
+      "name": "add2ggplot",
+      "url": "https://jiaxiangbu.github.io/add2ggplot/",
+      "description": "Add more themes for your ggplot object"
+    },
+    {
+      "name": "afcharts",
+      "url": "https://best-practice-and-impact.github.io/afcharts/",
+      "description": "Produce Charts Following UK Government Analysis Function Guidance"
+    },
+    {
+      "name": "amerika",
+      "url": "https://github.com/pdwaggoner/amerika",
+      "description": "An American politics-inspired color palette generator"
+    },
+    {
+      "name": "bbplot",
+      "url": "https://github.com/bbc/bbplot",
+      "description": "R package that helps create and export ggplot2 charts in the style used by the BBC News data team"
+    },
+    {
+      "name": "blueycolors",
+      "url": "https://ekholme.github.io/blueycolors/",
+      "description": "Provides bluey-inspired color palettes and ggplot2 scales"
+    },
+    {
+      "name": "ButterflyColors",
+      "url": "https://junqueiragaabi.github.io/ButterflyColors/",
+      "description": "Color palette for data visualization based on butterfly species"
+    },
+    {
+      "name": "colorBlindnessSafe",
+      "url": "https://cran.r-project.org/web/packages/colorBlindness/",
+      "description": "Color Set for Color Blindness"
+    },
+    {
+      "name": "cols4all",
+      "url": "https://github.com/mtennekes/cols4all",
+      "description": "Colors for all (R package)"
+    },
+    {
+      "name": "cyberpunk",
+      "url": "https://github.com/r-coderdotcom/cyberpunk",
+      "description": "A function to create cyberpunk-style graphs with R based on ggplot2"
+    },
+    {
+      "name": "darknerdthemes",
+      "url": "https://github.com/xvzftube/darknerdthemes",
+      "description": "Dark ggplots themes for nerds"
+    },
+    {
+      "name": "DOYPAColors",
+      "url": "https://github.com/jmestret/DOYPAColors",
+      "description": "Don't Overthink Your Palette of Colors"
+    },
+    {
+      "name": "duke",
+      "url": "https://aidangildea.github.io/duke/",
+      "description": "Creating a Color-Blind Friendly Duke Color Package"
+    },
+    {
+      "name": "dutchmasters",
+      "url": "https://github.com/EdwinTh/dutchmasters",
+      "description": "R package with colour palettes derived from famous paintings by 17th century Dutch masers"
+    },
+    {
+      "name": "tricolore",
+      "url": "https://github.com/jschoeley/tricolore",
+      "description": "A flexible color scale for ternary compositions"
+    },
+    {
+      "name": "gameofthrones",
+      "url": "https://github.com/aljrico/gameofthrones",
+      "description": "Game of Thrones inspired palette for R"
+    },
+    {
+      "name": "ggdc",
+      "url": "https://github.com/datacamp/ggdc",
+      "description": "Datacamp Themes for ggplot2"
+    },
+    {
+      "name": "ggcharts",
+      "url": "https://github.com/thomas-neitmann/ggcharts",
+      "description": "Get You to Your Desired Plot Faster"
+    },
+    {
+      "name": "ggcute",
+      "url": "https://github.com/sharlagelfand/ggcute/",
+      "description": "Cute things for ggplot2"
+    },
+    {
+      "name": "ggdark",
+      "url": "https://github.com/nsgrantham/ggdark",
+      "description": "Dark mode for ggplot2 themes"
+    },
+    {
+      "name": "ggDracula",
+      "url": "https://github.com/dracula/ggplot2",
+      "description": "Dracula for ggplot2"
+    },
+    {
+      "name": "ggchromatic",
+      "url": "https://teunbrand.github.io/ggchromatic/",
+      "description": "Colour and fill scales for 'ggplot2' using colour spaces"
+    },
+    {
+      "name": "ggCyberPunk",
+      "url": "https://github.com/delabj/ggCyberPunk",
+      "description": "Working on creating a similar cyberpunk geom for ggplot"
+    },
+    {
+      "name": "ggeasy",
+      "url": "https://github.com/jonocarroll/ggeasy",
+      "description": "Easy Access to 'ggplot2' Commands"
+    },
+    {
+      "name": "ggedit",
+      "url": "https://github.com/yonicd/ggedit",
+      "description": "Interactively edit ggplot layer aesthetics and theme definitions"
+    },
+    {
+      "name": "ggfittext",
+      "url": "https://github.com/wilkox/ggfittext",
+      "description": "ggplot2 geoms to fit text into boxes"
+    },
+    {
+      "name": "ggfx",
+      "url": "https://github.com/thomasp85/ggfx",
+      "description": "ggfx is a (currently experimantal) package that allows the use of various filters and shaders on ggplot2 layers"
+    },
+    {
+      "name": "ggGenshin",
+      "url": "https://restlesstail.github.io/ggGenshin/",
+      "description": "a collection of Genshin-styled color schemes"
+    },
+    {
+      "name": "gghdx",
+      "url": "https://github.com/OCHA-DAP/gghdx",
+      "description": "HDX Theme, Scales, and Other Conveniences for 'ggplot2'"
+    },
+    {
+      "name": "gglaplot",
+      "url": "https://github.com/Greater-London-Authority/gglaplot",
+      "description": "Makes graphics in the GLA style using ggplot2"
+    },
+    {
+      "name": "gglgbtq",
+      "url": "https://turtletopia.github.io/gglgbtq/",
+      "description": "Provides multiple palettes based on pride flags with tailored themes"
+    },
+    {
+      "name": "ggnewscale",
+      "url": "https://github.com/eliocamp/ggnewscale",
+      "description": "Multiple Fill and Color Scales in 'ggplot2'"
+    },
+    {
+      "name": "ggnuplot",
+      "url": "https://github.com/hriebl/ggnuplot",
+      "description": "Make your ggplots look like gnuplots"
+    },
+    {
+      "name": "ggokabeito",
+      "url": "https://malcolmbarrett.github.io/ggokabeito/",
+      "description": "Colorblind-friendly, qualitative Okabe-Ito Scales for ggplot2 and ggraph"
+    },
+    {
+      "name": "ggpomological",
+      "url": "https://www.garrickadenbuie.com/project/ggpomological/",
+      "description": "Pomological plot theme for ggplot2"
+    },
+    {
+      "name": "ggprism",
+      "url": "https://csdaw.github.io/ggprism/",
+      "description": "ggplot2 extension inspired by GraphPad Prism"
+    },
+    {
+      "name": "ggrough",
+      "url": "https://xvrdm.github.io/ggrough/",
+      "description": "Convert ggplot2 chart to roughjs"
+    },
+    {
+      "name": "ggRtsy",
+      "url": "https://github.com/katelyndiaz/ggRtsy",
+      "description": "Add Some Van Gogh Colors and Overlay Colors on Your 'ggplot()'"
+    },
+    {
+      "name": "ggsci",
+      "url": "https://nanx.me/ggsci/",
+      "description": "Scientific journal and sci-fi themed color palettes for ggplot2"
+    },
+    {
+      "name": "ggseg",
+      "url": "https://ggseg.github.io/ggseg/",
+      "description": "Plotting tool for brain atlases, in ggplot"
+    },
+    {
+      "name": "ggstar",
+      "url": "https://github.com/xiangpin/ggstar/",
+      "description": "Star layer for ggplot2"
+    },
+    {
+      "name": "ggtea",
+      "url": "https://cran.r-project.org/web/packages/ggtea/",
+      "description": "Palettes and Themes for 'ggplot2'"
+    },
+    {
+      "name": "ggtech",
+      "url": "https://github.com/ricardo-bion/ggtech",
+      "description": "ggplot2 tech themes, scales, and geoms"
+    },
+    {
+      "name": "ggtext",
+      "url": "https://github.com/wilkelab/ggtext",
+      "description": "Improved text rendering support for ggplot2"
+    },
+    {
+      "name": "ggtextures",
+      "url": "https://github.com/clauswilke/ggtextures",
+      "description": "Drawing textured rectangles and bars with ggplot"
+    },
+    {
+      "name": "ggthemes",
+      "url": "https://jrnold.github.io/ggthemes/",
+      "description": "Additional themes, scales, and geoms for ggplot2"
+    },
+    {
+      "name": "ggthemeUL",
+      "url": "https://cran.r-project.org/web/packages/ggthemeUL/",
+      "description": "A 'ggplot' Theme for University of Ljubljana"
+    },
+    {
+      "name": "ggthemr",
+      "url": "https://github.com/cttobin/ggthemr",
+      "description": "Themes for ggplot2"
+    },
+    {
+      "name": "ggx",
+      "url": "https://github.com/brandmaier/ggx",
+      "description": "Translate natural language commands into ggplot commands"
+    },
+    {
+      "name": "harrypotter",
+      "url": "https://github.com/aljrico/harrypotter",
+      "description": "Harry Potter inspired palette for R"
+    },
+    {
+      "name": "hrbrthemes",
+      "url": "https://github.com/hrbrmstr/hrbrthemes",
+      "description": "Opinionated, typographic-centric ggplot2 themes and theme components"
+    },
+    {
+      "name": "INBOtheme",
+      "url": "https://inbo.github.io/INBOtheme",
+      "description": "Corporate identity theme for the Research Institute for Nature and Forest (INBO)"
+    },
+    {
+      "name": "jcolors",
+      "url": "https://jaredhuling.org/jcolors/",
+      "description": "Colors Palettes for R and 'ggplot2', Additional Themes for 'ggplot2'"
+    },
+    {
+      "name": "LaCroixColoR",
+      "url": "https://github.com/johannesbjork/LaCroixColoR",
+      "description": "LaCroix Color Palettes for R"
+    },
+    {
+      "name": "lemon",
+      "url": "https://github.com/stefanedwards/lemon",
+      "description": "(): Freshing up your ggplots"
+    },
+    {
+      "name": "mdthemes",
+      "url": "https://github.com/thomas-neitmann/mdthemes",
+      "description": "Markdown Themes for 'ggplot2'"
+    },
+    {
+      "name": "MetBrewer",
+      "url": "https://github.com/BlakeRMills/MetBrewer",
+      "description": "Color palette package in R inspired by works at the Metropolitan Museum of Art in New York"
+    },
+    {
+      "name": "MexBrewer",
+      "url": "https://paezha.github.io/MexBrewer/",
+      "description": "Color Palettes Inspired by Works Mexican Muralists"
+    },
+    {
+      "name": "mexicolors",
+      "url": "https://github.com/alexplatasl/mexicolors",
+      "description": "A Mexican politics-inspired color palette generator"
+    },
+    {
+      "name": "MoMAColors",
+      "url": "https://github.com/BlakeRMills/MoMAColors",
+      "description": "Color Schemes based around artwork and the Museum of Modern Art"
+    },
+    {
+      "name": "monochromeR",
+      "url": "https://github.com/cararthompson/monochromeR",
+      "description": "A package for creating monochrome colour palettes and easily converting rgba values to hex codes"
+    },
+    {
+      "name": "NatParksPalettes",
+      "url": "https://github.com/kevinsblake/NatParksPalettes",
+      "description": "Color palette package inspired by National Parks"
+    },
+    {
+      "name": "nord",
+      "url": "https://github.com/jkaupp/nord",
+      "description": "Northern-themed Color palettes"
+    },
+    {
+      "name": "onsvplot",
+      "url": "https://pabsantos.github.io/onsvplot/",
+      "description": "National Road Safety Observatory (ONSV) Style for 'ggplot2' Graphics"
+    },
+    {
+      "name": "paletteer",
+      "url": "https://emilhvitfeldt.github.io/paletteer/",
+      "description": "Collection of most color palettes in a single R package"
+    },
+    {
+      "name": "pilot",
+      "url": "https://github.com/olihawkins/pilot",
+      "description": "A minimal ggplot2 theme with an accessible discrete color palette"
+    },
+    {
+      "name": "peRReo",
+      "url": "https://github.com/jbgb13/peRReo",
+      "description": "R color palettes inspired by reggaeton and latin albums"
+    },
+    {
+      "name": "PrettyCols",
+      "url": "https://nrennie.github.io/PrettyCols/",
+      "description": "R package containing pretty colour palettes."
+    },
+    {
+      "name": "rcartocolor",
+      "url": "https://jakubnowosad.com/rcartocolor/",
+      "description": "Implementation of the CARTOcolor palettes in R"
+    },
+    {
+      "name": "Rdune",
+      "url": "https://github.com/nvietto/Rdune",
+      "description": "Creates color palettes inspired by \"Dune\""
+    },
+    {
+      "name": "rockthemes",
+      "url": "https://johnmackintosh.com/rockthemes/",
+      "description": "R colour palettes based on classic rock albums and some other ones"
+    },
+    {
+      "name": "savonliquide",
+      "url": "https://github.com/feddelegrand7/savonliquide",
+      "description": "Check for Color Contrast Accessibility in R"
+    },
+    {
+      "name": "scico",
+      "url": "https://github.com/thomasp85/scico",
+      "description": "Palettes for R based on the Scientific Colour-Maps"
+    },
+    {
+      "name": "soilpalettes",
+      "url": "https://github.com/kaizadp/soilpalettes",
+      "description": "R color palettes inspired by soil profiles"
+    },
+    {
+      "name": "stevethemes",
+      "url": "http://svmiller.com/stevethemes/",
+      "description": "Steve’s ggplot2 Themes and Related Theme Elements"
+    },
+    {
+      "name": "tgamtheme",
+      "url": "https://globeandmail.github.io/tgamtheme/",
+      "description": "Globe and Mail Graphics Theme for 'ggplot2'"
+    },
+    {
+      "name": "thematic",
+      "url": "https://rstudio.github.io/thematic/",
+      "description": "Unified and automatic theming of ggplot2, lattice, and base R graphics"
+    },
+    {
+      "name": "ThemePark",
+      "url": "http://matthewbjane.com/ThemePark/",
+      "description": "Fun ggplot themes for popular culture"
+    },
+    {
+      "name": "tinythemes",
+      "url": "https://github.com/eddelbuettel/tinythemes",
+      "description": "Lightweight Repackaging of 'Themes' for 'ggplot2'"
+    },
+    {
+      "name": "trekcolors",
+      "url": "https://leonawicz.github.io/trekcolors/",
+      "description": "Strak Trek color palettes"
+    },
+    {
+      "name": "tvthemes",
+      "url": "https://ryo-n7.github.io/tvthemes/",
+      "description": "ggplot2 themes and palettes based on your favorite TV shows"
+    },
+    {
+      "name": "unhcrthemes",
+      "url": "https://vidonne.github.io/unhcrthemes/",
+      "description": "UNHCR branded theme for ggplot2 and data visualization colour palettes"
+    },
+    {
+      "name": "unicol",
+      "url": "https://hneth.github.io/unicol/",
+      "description": "The colors of your university"
+    },
+    {
+      "name": "urbnthemes",
+      "url": "https://urbaninstitute.github.io/urbnthemes/index.html",
+      "description": "Urban Institute's ggplot2 theme and tools"
+    },
+    {
+      "name": "viridis",
+      "url": "http://sjmgarnier.github.io/viridis",
+      "description": "Colorblind-Friendly Color Maps for R"
+    },
+    {
+      "name": "wesanderson",
+      "url": "https://github.com/karthik/wesanderson",
+      "description": "A Wes Anderson color palette for R"
+    },
+    {
+      "name": "wsjplot",
+      "url": "https://cran.r-project.org/web/packages/wsjplot/",
+      "description": "Style Time Series Plots Like the Wall Street Journal"
+    }
+  ],
+  "Presentation, composition and scales": [
+    {
+      "name": "aplot",
+      "url": "https://github.com/YuLab-SMU/aplot",
+      "description": "Decorate a plot with associated information"
+    },
+    {
+      "name": "camcorder",
+      "url": "https://github.com/thebioengineer/camcorder",
+      "description": "Record plots generated during an R session and replay as a gif!"
+    },
+    {
+      "name": "cowplot",
+      "url": "https://wilkelab.org/cowplot/",
+      "description": "Streamlined Plot Theme and Plot Annotations for ggplot2"
+    },
+    {
+      "name": "egg",
+      "url": "https://github.com/jwdink/egg",
+      "description": "(fragile) extensions for ggplot2"
+    },
+    {
+      "name": "facetious",
+      "url": "https://github.com/coolbutuseless/facetious",
+      "description": "Home to some alternate facetting for ggplot2"
+    },
+    {
+      "name": "facetscales",
+      "url": "https://github.com/zeehio/facetscales",
+      "description": "facet_grid with different scales per facet"
+    },
+    {
+      "name": "figpatch",
+      "url": "https://bradyajohnston.github.io/figpatch/",
+      "description": "Easily Arrange Images with Patchwork Alongside ggplot2 Figures"
+    },
+    {
+      "name": "geofacet",
+      "url": "https://hafen.github.io/geofacet/",
+      "description": "R package for geographical faceting with ggplot2"
+    },
+    {
+      "name": "ggalign",
+      "url": "https://yunuuuu.github.io/ggalign/",
+      "description": "A 'ggplot2' Extension for Consistent Axis Alignment"
+    },
+    {
+      "name": "gganimate",
+      "url": "https://gganimate.com/",
+      "description": "A Grammar of Animated Graphics"
+    },
+    {
+      "name": "ggannotate",
+      "url": "https://github.com/MattCowgill/ggannotate",
+      "description": "Interactively annotate ggplots"
+    },
+    {
+      "name": "ggbillboard",
+      "url": "https://github.com/nacnudus/ggbillboard",
+      "description": "A package to fill vacant ggplot2 facets with images"
+    },
+    {
+      "name": "ggbreak",
+      "url": "https://github.com/YuLab-SMU/ggbreak",
+      "description": "Set Axis Break for 'ggplot2'"
+    },
+    {
+      "name": "ggcolormeter",
+      "url": "https://github.com/yjunechoe/ggcolormeter",
+      "description": "A ggplot2 color/fill legend guide extension in the style of a dashboard meter"
+    },
+    {
+      "name": "ggfigdone",
+      "url": "https://wenjie1991.github.io/ggfigdone/",
+      "description": "Manage ggplot figures using ggfigdone"
+    },
+    {
+      "name": "ggfocus",
+      "url": "https://github.com/Freguglia/ggfocus",
+      "description": "A 'ggplot2' extension that provides tools for automatically creating scales to focus on subgroups"
+    },
+    {
+      "name": "ggforce",
+      "url": "https://ggforce.data-imaginist.com/",
+      "description": "Accelerating ggplot2"
+    },
+    {
+      "name": "ggformula",
+      "url": "http://www.mosaic-web.org/ggformula/",
+      "description": "Provides a formula interface to 'ggplot2' graphics"
+    },
+    {
+      "name": "gggrid",
+      "url": "https://www.stat.auckland.ac.nz/~paul/Reports/gggrid/gggrid.html",
+      "description": "Accessing 'grid' from 'ggplot2'"
+    },
+    {
+      "name": "ggh4x",
+      "url": "https://github.com/teunbrand/ggh4x",
+      "description": "ggplot extension: options for tailored facets, multiple colourscales and miscellaneous"
+    },
+    {
+      "name": "gghighlight",
+      "url": "https://yutannihilation.github.io/gghighlight/",
+      "description": "Highlight points and lines in ggplot2"
+    },
+    {
+      "name": "gglabeller",
+      "url": "https://github.com/AliciaSchep/gglabeller",
+      "description": "Shiny gadget for labeling points on ggplot"
+    },
+    {
+      "name": "gglogger",
+      "url": "https://pwwang.github.io/gglogger/",
+      "description": "Track 'ggplot2' Calls"
+    },
+    {
+      "name": "ggmagnify",
+      "url": "https://github.com/hughjonesd/ggmagnify",
+      "description": "Create a magnified inset of part of a ggplot object"
+    },
+    {
+      "name": "ggNestedBarChart",
+      "url": "https://github.com/davedgd/ggNestedBarChart",
+      "description": "An easier way to create nested, grouped, heirarchical bar charts with ggplot2"
+    },
+    {
+      "name": "ggplotify",
+      "url": "https://github.com/GuangchuangYu/ggplotify",
+      "description": "Convert plot to grob and ggplot object"
+    },
+    {
+      "name": "ggProfessional",
+      "url": "https://www.marcellgranat.com/ggprofessional/",
+      "description": "Manage ggplot themes, colors, logos and exporting"
+    },
+    {
+      "name": "ggragged",
+      "url": "https://mikmart.github.io/ggragged/",
+      "description": "Ragged Grids for ggplot2"
+    },
+    {
+      "name": "ggreveal",
+      "url": "http://www.weverthon.com/ggreveal/",
+      "description": "Reveal a 'ggplot' Incrementally"
+    },
+    {
+      "name": "ggtibble",
+      "url": "https://billdenney.github.io/ggtibble/",
+      "description": "Create tibbles and lists of ggplot figures that can be modified as easily as regular ggplot figures"
+    },
+    {
+      "name": "ggtrace",
+      "url": "https://yjunechoe.github.io/ggtrace/",
+      "description": "Programmatically inspect, debug, and manipulate ggproto methods"
+    },
+    {
+      "name": "ggtrack",
+      "url": "https://mrjoh3.github.io/ggtrack/",
+      "description": "Add tracking banner to plots"
+    },
+    {
+      "name": "ggupset",
+      "url": "https://github.com/const-ae/ggupset",
+      "description": "Combination matrix axis for 'ggplot2' to create 'UpSet' plots"
+    },
+    {
+      "name": "ggview",
+      "url": "https://github.com/idmn/ggview",
+      "description": "Ggplot picture previewer"
+    },
+    {
+      "name": "gtable",
+      "url": "https://gtable.r-lib.org/",
+      "description": "The layout packages that powers ggplot2"
+    },
+    {
+      "name": "jjAnno",
+      "url": "https://github.com/junjunlab/jjAnno",
+      "description": "An annotation package for ggplot plot"
+    },
+    {
+      "name": "legendry",
+      "url": "https://github.com/teunbrand/legendry",
+      "description": "Extended Legends and Axes for 'ggplot2'"
+    },
+    {
+      "name": "pagenum",
+      "url": "https://kwstat.github.io/pagenum/index.html",
+      "description": "Add page number to R graphics"
+    },
+    {
+      "name": "patchwork",
+      "url": "https://patchwork.data-imaginist.com/",
+      "description": "The Composer of ggplots"
+    },
+    {
+      "name": "relayer",
+      "url": "https://github.com/clauswilke/relayer",
+      "description": "Rethinking layers in ggplot2"
+    },
+    {
+      "name": "scales",
+      "url": "https://scales.r-lib.org/",
+      "description": "Tools for ggplot2 scales"
+    },
+    {
+      "name": "showtext",
+      "url": "https://github.com/yixuan/showtext",
+      "description": "Using Fonts More Easily in R Graphs"
+    },
+    {
+      "name": "tagger",
+      "url": "https://eliocamp.github.io/tagger/",
+      "description": "Add tags to ggplot2 facets"
+    }
+  ],
+  "Interactive": [
+    {
+      "name": "ggiraph",
+      "url": "https://davidgohel.github.io/ggiraph/",
+      "description": "Make 'ggplot' Graphics Interactive"
+    },
+    {
+      "name": "ggtips",
+      "url": "https://github.com/cosi1/ggtips",
+      "description": "Adds interactive tooltip boxes to ggplots (standalone or rendered in Shiny)"
+    },
+    {
+      "name": "plotly",
+      "url": "https://github.com/ropensci/plotly",
+      "description": "An interactive graphing library for R"
+    }
+  ],
+  "Network": [
+    {
+      "name": "geomnet",
+      "url": "http://sctyner.github.io/geomnet/",
+      "description": "Network visualization in the ggplot2 framework"
+    },
+    {
+      "name": "ggnet",
+      "url": "https://briatte.github.io/ggnet/",
+      "description": "Network visualization with ggplot2"
+    },
+    {
+      "name": "ggnetwork",
+      "url": "https://briatte.github.io/ggnetwork/",
+      "description": "Geoms to plot networks with ggplot2"
+    },
+    {
+      "name": "ggtangle",
+      "url": "https://cran.r-project.org/web/packages/ggtangle/index.html",
+      "description": "Draw Network with Data"
+    },
+    {
+      "name": "graphlayouts",
+      "url": "http://graphlayouts.schochastics.net/",
+      "description": "New layout algorithms for network visualizations in R"
+    },
+    {
+      "name": "qgraph",
+      "url": "https://cran.r-project.org/web/packages/qgraph/index.html",
+      "description": "Graph Plotting Methods, Psychometric Data Visualization and Graphical Model Estimation"
+    }
+  ],
+  "Spatial": [
+    {
+      "name": "bertin",
+      "url": "https://github.com/BjnNowak/bertin",
+      "description": "Transform choropleth maps into valued points"
+    },
+    {
+      "name": "eumaps",
+      "url": "https://github.com/jfjelstul/eumaps",
+      "description": "An R package that provides easy-to-use tools for making professional-quality choropleth maps of the European Union (EU)"
+    },
+    {
+      "name": "ggautomap",
+      "url": "https://cidm-ph.github.io/ggautomap/",
+      "description": "Create ggplot maps from a column of place names"
+    },
+    {
+      "name": "ggcounty",
+      "url": "https://github.com/hrbrmstr/ggcounty",
+      "description": "Generate ggplot2 geom_map county maps"
+    },
+    {
+      "name": "ggfields",
+      "url": "https://pepijn-devries.github.io/ggfields/",
+      "description": "Add vector fields layers to ggplots"
+    },
+    {
+      "name": "ggmap",
+      "url": "https://github.com/dkahle/ggmap",
+      "description": "A package for plotting maps in R with ggplot2"
+    },
+    {
+      "name": "ggmapinset",
+      "url": "https://cidm-ph.github.io/ggmapinset/",
+      "description": "Add zoomed inset panels to your ggplot maps"
+    },
+    {
+      "name": "ggOceanMaps",
+      "url": "https://github.com/MikkoVihtakari/ggOceanMaps/",
+      "description": "Plot oceanographic research data on maps using ggplot2"
+    },
+    {
+      "name": "ggredist",
+      "url": "https://alarm-redist.org/ggredist/",
+      "description": "Scales, Geometries, and Extensions of 'ggplot2' for Election Mapping"
+    },
+    {
+      "name": "ggsflabel",
+      "url": "https://yutannihilation.github.io/ggsflabel/",
+      "description": "Labels for 'sf' with 'ggplot2'"
+    },
+    {
+      "name": "ggsn",
+      "url": "http://oswaldosantos.github.io/ggsn/",
+      "description": "R package to add north symbols and scale bars to maps created with ggplot or ggmap"
+    },
+    {
+      "name": "ggspatial",
+      "url": "https://paleolimbot.github.io/ggspatial/",
+      "description": "Enhancing spatial visualization in ggplot2"
+    },
+    {
+      "name": "ggswissmaps",
+      "url": "https://github.com/gibonet/ggswissmaps",
+      "description": "Offers Various Swiss Maps as Data Frames and 'ggplot2' Objects"
+    },
+    {
+      "name": "layer",
+      "url": "https://github.com/marcosci/layer",
+      "description": "Create stacked tilted maps"
+    },
+    {
+      "name": "mapSpain",
+      "url": "https://ropenspain.github.io/mapSpain/",
+      "description": "Administrative Boundaries of Spain"
+    },
+    {
+      "name": "metR",
+      "url": "https://eliocamp.github.io/metR/",
+      "description": "Tools for Easier Analysis of Meteorological Fields"
+    },
+    {
+      "name": "mxmaps",
+      "url": "https://www.diegovalle.net/mxmaps/",
+      "description": "An R package for making maps of Mexico"
+    },
+    {
+      "name": "ozmaps",
+      "url": "https://mdsumner.github.io/ozmaps/",
+      "description": "Australian maps"
+    },
+    {
+      "name": "plotDK",
+      "url": "https://github.com/kristianSN/plotDK",
+      "description": "Plot Summary Statistics as Choropleth Maps of Danish Administrative Areas"
+    },
+    {
+      "name": "rayshader",
+      "url": "https://github.com/tylermorganwall/rayshader",
+      "description": "R Package for 2D and 3D mapping and data visualization"
+    },
+    {
+      "name": "starBliss",
+      "url": "https://github.com/benyamindsmith/starBliss",
+      "description": "Create beautiful, print quality maps of the night sky in R"
+    },
+    {
+      "name": "stars",
+      "url": "https://r-spatial.github.io/stars/",
+      "description": "Spatiotemporal Arrays, Raster and Vector Data Cubes"
+    },
+    {
+      "name": "sugarbag",
+      "url": "https://srkobakian.github.io/sugarbag/",
+      "description": "An R package to create tessellated hexagon maps of Australia"
+    },
+    {
+      "name": "sugarglider",
+      "url": "https://maliny12.github.io/sugarglider/",
+      "description": "Create Glyph-Maps of Spatiotemporal Data"
+    },
+    {
+      "name": "tidyterra",
+      "url": "https://dieghernan.github.io/tidyterra/",
+      "description": "tidyverse and ggplot2 methods for terra spatial objects"
+    },
+    {
+      "name": "urbnmapr",
+      "url": "https://urbaninstitute.github.io/urbnmapr/index.html",
+      "description": "US state and county maps with Alaska and Hawaii"
+    }
+  ],
+  "Time": [
+    {
+      "name": "deeptime",
+      "url": "https://github.com/willgearty/deeptime",
+      "description": "Plotting Tools for Anyone Working in Deep Time"
+    },
+    {
+      "name": "ggsurvfit",
+      "url": "https://www.danieldsjoberg.com/ggsurvfit/",
+      "description": "Easy and Flexible Time-To-Event Figures"
+    },
+    {
+      "name": "ggTimeSeries",
+      "url": "https://github.com/AtherEnergy/ggTimeSeries",
+      "description": "Time series visualisation"
+    },
+    {
+      "name": "survminer",
+      "url": "https://rpkgs.datanovia.com/survminer/",
+      "description": "Survival Analysis and Visualization"
+    },
+    {
+      "name": "vistime",
+      "url": "https://shosaco.github.io/vistime/",
+      "description": "Pretty timelines in R"
+    }
+  ],
+  "Icons, patterns and images": [
+    {
+      "name": "cropcircles",
+      "url": "https://github.com/doehm/cropcircles",
+      "description": "Crop an image into a circle with a transparent background"
+    },
+    {
+      "name": "emoGG",
+      "url": "https://github.com/dill/emoGG",
+      "description": "Emoji in ggplot2"
+    },
+    {
+      "name": "ggflags",
+      "url": "https://github.com/rensa/ggflags",
+      "description": "A flag geom for ggplot2"
+    },
+    {
+      "name": "ggfoundry",
+      "url": "https://cgoo4.github.io/ggfoundry/",
+      "description": "Shape Foundry & Geom for 'ggplot2'"
+    },
+    {
+      "name": "ggimage",
+      "url": "https://github.com/GuangchuangYu/ggimage",
+      "description": "Use Images in ggplot2"
+    },
+    {
+      "name": "ggpath",
+      "url": "https://mrcaseb.github.io/ggpath/",
+      "description": "Robust Image Rendering Support for 'ggplot2'"
+    },
+    {
+      "name": "ggpattern",
+      "url": "https://coolbutuseless.github.io/package/ggpattern/index.html",
+      "description": "ggplot geoms with pattern fills"
+    },
+    {
+      "name": "ggtikz",
+      "url": "https://github.com/osthomas/ggtikz",
+      "description": "Add TikZ annotations with absolute data or relative plot coordinates to ggplots"
+    },
+    {
+      "name": "mlbplotR",
+      "url": "https://camdenk.github.io/mlbplotR/",
+      "description": "R package to easily plot MLB logos"
+    }
+  ],
+  "Data and models": [
+    {
+      "name": "edgebundle",
+      "url": "https://github.com/schochastics/edgebundle",
+      "description": "R package implementing edge bundling algorithms"
+    },
+    {
+      "name": "effectplots",
+      "url": "https://mayer79.github.io/effectplots/",
+      "description": "Fast Effect Plots in R"
+    },
+    {
+      "name": "distributional",
+      "url": "https://pkg.mitchelloharawild.com/distributional/",
+      "description": "Vectorised distributions for R"
+    },
+    {
+      "name": "dotwhisker",
+      "url": "https://fsolt.org/dotwhisker/",
+      "description": "Dot-and-Whisker Plots of Regression Results"
+    },
+    {
+      "name": "FunnelPlotR",
+      "url": "https://chrismainey.github.io/FunnelPlotR/",
+      "description": "Funnel plots for comparing institutional performance, with overdispersion adjustment"
+    },
+    {
+      "name": "gaussplotR",
+      "url": "https://vbaliga.github.io/gaussplotR/",
+      "description": "Fit, predict, and plot 2D Gaussians"
+    },
+    {
+      "name": "GGally",
+      "url": "https://ggobi.github.io/ggally/index.html",
+      "description": "R package that extends ggplot2"
+    },
+    {
+      "name": "ggbiplot",
+      "url": "https://friendly.github.io/ggbiplot/",
+      "description": "A ggplot2 based biplot for principal components-like methods"
+    },
+    {
+      "name": "ggcompare",
+      "url": "https://hmu-wh.github.io/ggcompare/",
+      "description": "Mean Comparison in 'ggplot2'"
+    },
+    {
+      "name": "ggcoverage",
+      "url": "https://showteeth.github.io/ggcoverage/",
+      "description": "Visualize and annotate genomic coverage with ggplot2"
+    },
+    {
+      "name": "ggdendro",
+      "url": "http://andrie.github.io/ggdendro/",
+      "description": "Tools to extract dendrogram plot data for use with 'ggplot2'"
+    },
+    {
+      "name": "ggDoE",
+      "url": "https://ggdoe.netlify.app/",
+      "description": "Modern Graphs for Design of Experiments with ggplot2"
+    },
+    {
+      "name": "ggeffects",
+      "url": "https://strengejacke.github.io/ggeffects/",
+      "description": "Tidy Data Frames of Marginal Effects for ggplot2"
+    },
+    {
+      "name": "ggESDA",
+      "url": "https://github.com/kiangkiangkiang/ggESDA",
+      "description": "An R package for Exploratory Symbolic Data Analysis using ggplot2"
+    },
+    {
+      "name": "ggfixest",
+      "url": "https://grantmcdermott.com/ggfixest/",
+      "description": "Dedicated ggplot2 methods for fixest model objects"
+    },
+    {
+      "name": "ggfortify",
+      "url": "https://github.com/sinhrks/ggfortify",
+      "description": "Define fortify and autoplot functions to allow ggplot2 to handle some popular R packages"
+    },
+    {
+      "name": "gginnards",
+      "url": "https://docs.r4photobiology.info/gginnards/",
+      "description": "R package extending 'ggplot2' with manipulation and debugging tools"
+    },
+    {
+      "name": "ggip",
+      "url": "https://davidchall.github.io/ggip/",
+      "description": "R package to visualize IP data"
+    },
+    {
+      "name": "ggisotonic",
+      "url": "https://github.com/talegari/ggisotonic",
+      "description": "Add isotonic or monotonic regression curves to ggplots"
+    },
+    {
+      "name": "ggkegg",
+      "url": "https://noriakis.github.io/software/ggkegg/",
+      "description": "Analyzing and visualizing KEGG information using the grammar of graphics"
+    },
+    {
+      "name": "gglm",
+      "url": "https://github.com/graysonwhite/gglm",
+      "description": "Grammar of Graphics for Linear Model Diagnostic Plots"
+    },
+    {
+      "name": "gglorenz",
+      "url": "https://jjchern.github.io/gglorenz/",
+      "description": "Plotting Lorenz curves with the blessing of ggplot2"
+    },
+    {
+      "name": "ggmice",
+      "url": "https://amices.org/ggmice/",
+      "description": "Visualize incomplete and imputed data"
+    },
+    {
+      "name": "ggmugs",
+      "url": "https://cran.rstudio.com/web/packages/ggmugs/index.html",
+      "description": "Visualization of Multiple Genome-Wide Association Study Summary Statistics"
+    },
+    {
+      "name": "ggols",
+      "url": "https://github.com/EvaMaeRey/ggols",
+      "description": "visual expositions of simpler linear models"
+    },
+    {
+      "name": "ggparty",
+      "url": "https://github.com/martin-borkovec/ggparty",
+      "description": "ggplot2 visualizations for the partykit package"
+    },
+    {
+      "name": "ggpca",
+      "url": "https://cran.r-project.org/web/packages/ggpca/index.html",
+      "description": "Publication-Ready PCA, t-SNE, and UMAP Plots"
+    },
+    {
+      "name": "ggpmisc",
+      "url": "https://docs.r4photobiology.info/ggpmisc/",
+      "description": "R package ggpmisc is an extension to ggplot2 and the Grammar of Graphics"
+    },
+    {
+      "name": "ggpval",
+      "url": "https://github.com/s6juncheng/ggpval",
+      "description": "Add statistical test or annotation to your ggplot2 plots"
+    },
+    {
+      "name": "ggsem",
+      "url": "https://smin95.github.io/ggsem/",
+      "description": "Interactively Visualize Structural Equation Modeling Diagrams"
+    },
+    {
+      "name": "ggsmc",
+      "url": "https://richardgeveritt.github.io/ggsmc/",
+      "description": "Visualising Output from Sequential Monte Carlo Samplers and Ensemble-Based Methods"
+    },
+    {
+      "name": "ggstats",
+      "url": "https://larmarange.github.io/ggstats/",
+      "description": "Extension to ggplot2 for plotting stats"
+    },
+    {
+      "name": "ggvegan",
+      "url": "https://gavinsimpson.github.io/ggvegan/",
+      "description": "ggplot-based plots for vegan"
+    },
+    {
+      "name": "grafify",
+      "url": "https://github.com/ashenoy-cmbi/grafify",
+      "description": "Easy Graphs for Data Visualisation and Linear Models for ANOVA"
+    },
+    {
+      "name": "gratia",
+      "url": "https://gavinsimpson.github.io/gratia/",
+      "description": "ggplot-based graphics and useful functions for GAMs fitted using the mgcv package"
+    },
+    {
+      "name": "ggpicrust2",
+      "url": "https://cafferychen777.github.io/ggpicrust2/",
+      "description": "Make Picrust2 Output Analysis and Visualization Easier"
+    },
+    {
+      "name": "ggQQunif",
+      "url": "https://github.com/rcorty/ggQQunif",
+      "description": "QQ plots for big collections of p-values"
+    },
+    {
+      "name": "ggRandomForest",
+      "url": "https://github.com/ehrlinger/ggRandomForests",
+      "description": "Graphical analysis of random forests with the randomForestSRC, randomForest and ggplot2 packages"
+    },
+    {
+      "name": "ggResidpanel",
+      "url": "https://goodekat.github.io/ggResidpanel/",
+      "description": "An R package for creating a panel of diagnostic plots for residuals from a model"
+    },
+    {
+      "name": "ggseas",
+      "url": "https://github.com/ellisp/ggseas",
+      "description": "seasonal adjustment on the fly extension for ggplot2"
+    },
+    {
+      "name": "ggstatsplot",
+      "url": "https://indrajeetpatil.github.io/ggstatsplot/",
+      "description": "Enhancing 'ggplot2' plots with statistical analysis"
+    },
+    {
+      "name": "halfmoon",
+      "url": "https://r-causal.github.io/halfmoon/",
+      "description": "Techniques to Build Better Balance in Propensity Score Models"
+    },
+    {
+      "name": "interactions",
+      "url": "https://interactions.jacob-long.com/",
+      "description": "A comprehensive, user-friendly toolkit for visualizing and analyzing statistical interactions"
+    },
+    {
+      "name": "jskm",
+      "url": "https://jinseob2kim.github.io/jskm/",
+      "description": "R package for Kaplan-Meier Plot"
+    },
+    {
+      "name": "jtools",
+      "url": "https://jtools.jacob-long.com/",
+      "description": "Tools for summarizing/visualizing regressions and other helpful stuff"
+    },
+    {
+      "name": "KMunicate",
+      "url": "https://ellessenne.github.io/KMunicate-package/",
+      "description": "Create KMunicate-Style Plots"
+    },
+    {
+      "name": "lindia",
+      "url": "https://github.com/yeukyul/lindia",
+      "description": "Extension package of linear regression diagonostic plots in ggplot2"
+    },
+    {
+      "name": "metrica",
+      "url": "https://adriancorrendo.github.io/metrica/",
+      "description": "Prediction Performance Metrics"
+    },
+    {
+      "name": "mlr3viz",
+      "url": "https://mlr3viz.mlr-org.com/",
+      "description": "Visualizations for mlr3"
+    },
+    {
+      "name": "moderndive",
+      "url": "https://moderndive.github.io/moderndive/",
+      "description": "R package for tidyverse-friendly introductory linear regression"
+    },
+    {
+      "name": "naniar",
+      "url": "https://github.com/njtierney/naniar",
+      "description": "Tidy data structures, summaries, and visualisations for missing data"
+    },
+    {
+      "name": "performance",
+      "url": "https://easystats.github.io/performance/",
+      "description": "Models' quality and performance metrics (R2, ICC, LOO, AIC, BF, ...)"
+    },
+    {
+      "name": "plotROC",
+      "url": "http://sachsmc.github.io/plotROC/",
+      "description": "Interactive ROC plots with ggplot + d3.js"
+    },
+    {
+      "name": "ppsr",
+      "url": "https://github.com/paulvanderlaken/ppsr",
+      "description": "R implementation of Predictive Power Score"
+    },
+    {
+      "name": "prettyglm",
+      "url": "https://jared-fowler.github.io/prettyglm/",
+      "description": "An R package to visualise glm coefficients"
+    },
+    {
+      "name": "SBC",
+      "url": "https://hyunjimoon.github.io/SBC/index.html",
+      "description": "Simulation-based Calibration"
+    },
+    {
+      "name": "sjPlot",
+      "url": "https://strengejacke.github.io/sjPlot/",
+      "description": "Data Visualization for Statistics in Social Science"
+    },
+    {
+      "name": "starbility",
+      "url": "https://github.com/AakaashRao/starbility",
+      "description": "Coefficient stability plots under combinations of controls"
+    },
+    {
+      "name": "superb",
+      "url": "https://dcousin3.github.io/superb/",
+      "description": "Summary plots with adjusted error bars"
+    },
+    {
+      "name": "tidybayes",
+      "url": "http://mjskay.github.io/tidybayes/",
+      "description": "Bayesian analysis + tidy data + geoms"
+    },
+    {
+      "name": "treeheatr",
+      "url": "https://trangdata.github.io/treeheatr/",
+      "description": "Heatmap-integrated Decision Tree Visualizations"
+    },
+    {
+      "name": "truchet",
+      "url": "https://paezha.github.io/truchet/",
+      "description": "Package for creating Truchet tiles and mosaics"
+    },
+    {
+      "name": "visR",
+      "url": "https://openpharma.github.io/visR/",
+      "description": "A package to wrap functionality for plots, tables and diagrams adhering to graphical principles"
+    }
+  ],
+  "Python packages": [
+    {
+      "name": "lets-plot",
+      "url": "https://lets-plot.org/",
+      "description": "multiplatform plotting library built on the principles of the Grammar of Graphics"
+    },
+    {
+      "name": "plotnine",
+      "url": "https://github.com/has2k1/plotnine",
+      "description": "Python implementation of ggplot2 using matplotlib backend"
+    },
+    {
+      "name": "patchworklib",
+      "url": "https://github.com/ponnhide/patchworklib",
+      "description": "The Composer of plotnine ggplots"
+    },
+    {
+      "name": "plotnine3d",
+      "url": "https://github.com/krassowski/plotnine3d",
+      "description": "3D Graphics using the grammar of graphics"
+    },
+    {
+      "name": "adjustText",
+      "url": "https://github.com/Phlya/adjustText",
+      "description": "ggrepel-inspired label placement for matplotlib (integrated with plotnine)"
+    }
+  ],
+  "Julia packages": [
+    {
+      "name": "Gadfly.jl",
+      "url": "http://gadflyjl.org/stable/",
+      "description": ": Crafty statistical graphics for Julia"
+    },
+    {
+      "name": "TidierPlots.jl",
+      "url": "https://github.com/TidierOrg/TidierPlots.jl",
+      "description": ": Tidier data visualization in Julia, modeled after the ggplot2 R package"
+    }
+  ],
+  "Books": [
+    {
+      "name": "Data Visualization: A practical introduction",
+      "url": "http://socviz.co/",
+      "description": ""
+    },
+    {
+      "name": "Data Visualization with R",
+      "url": "https://rkabacoff.github.io/datavis/",
+      "description": ""
+    },
+    {
+      "name": "Fundamentals of Data Visualization",
+      "url": "https://serialmentor.com/dataviz/",
+      "description": ""
+    },
+    {
+      "name": "ggplot2: Elegant Graphics for Data Analysis",
+      "url": "https://ggplot2-book.org/",
+      "description": ""
+    },
+    {
+      "name": "Modern Data Visualization with R",
+      "url": "https://rkabacoff.github.io/datavis/",
+      "description": ""
+    }
+  ],
+  "Book chapters": [
+    {
+      "name": "Cookbook for R: Graphs",
+      "url": "http://www.cookbook-r.com/Graphs/",
+      "description": ""
+    },
+    {
+      "name": "R for Data Science: Data visualisation",
+      "url": "https://r4ds.had.co.nz/data-visualisation.html",
+      "description": ""
+    },
+    {
+      "name": "Modern Statistics for Modern Biology: High Quality Graphics in R",
+      "url": "https://web.stanford.edu/class/bios221/book/Chap-Graphics.html",
+      "description": ""
+    },
+    {
+      "name": "Quantitative Politics with R: Introduction to ggplot2",
+      "url": "http://qpolr.com/dataviz.html",
+      "description": ""
+    }
+  ],
+  "Online Courses": [
+    {
+      "name": "edX",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Data Science: Visualization",
+      "url": "https://www.edx.org/course/data-science-visualization",
+      "description": "*"
+    }
+  ],
+  "Galleries": [
+    {
+      "name": "ggplot2 extensions",
+      "url": "https://exts.ggplot2.tidyverse.org/",
+      "description": ""
+    },
+    {
+      "name": "The R Graph Gallery",
+      "url": "https://www.r-graph-gallery.com/",
+      "description": ""
+    },
+    {
+      "name": "R CHARTS",
+      "url": "https://r-charts.com/",
+      "description": ""
+    }
+  ],
+  "Text tutorials": [
+    {
+      "name": "Beginner, introduction",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "a ggplot2 grammar guide",
+      "url": "https://evamaerey.github.io/ggplot2_grammar_guide/about",
+      "description": "*"
+    },
+    {
+      "name": "A Simple Introduction to the Graphing Philosophy of ggplot2",
+      "url": "https://tomhopper.me/2014/03/28/a-simple-introduction-to-the-graphing-philosophy-of-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Aesthetics, Geoms, Mappings, Scales, What?",
+      "url": "https://ggplot2tutor.com/beginner_tutorial/beginner_tutorial/",
+      "description": "*"
+    },
+    {
+      "name": "An Introduction on How to Make Beautiful Charts With R and ggplot2",
+      "url": "https://minimaxir.com/2015/02/ggplot-tutorial/",
+      "description": "*"
+    },
+    {
+      "name": "ggplot2 101",
+      "url": "https://brunomioto.com/posts/intro_ggplot2/en/",
+      "description": "*"
+    },
+    {
+      "name": "ggplot2 Quickref",
+      "url": "http://r-statistics.co/ggplot2-cheatsheet.html",
+      "description": "*"
+    },
+    {
+      "name": "Beautiful plotting in R: A ggplot2 cheatsheet",
+      "url": "http://zevross.com/blog/2014/08/04/beautiful-plotting-in-r-a-ggplot2-cheatsheet-3/",
+      "description": "*"
+    },
+    {
+      "name": "Top 50 ggplot2 Visualizations - The Master List (With Full R Code)",
+      "url": "http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html",
+      "description": "*"
+    },
+    {
+      "name": "A ggplot2 Tutorial for Beautiful Plotting in R",
+      "url": "https://cedricscherer.com/2019/08/05/a-ggplot2-tutorial-for-beautiful-plotting-in-r/",
+      "description": "*"
+    },
+    {
+      "name": "Statistical tools for high-throughput data analysis: ggplot2 - Essentials",
+      "url": "http://www.sthda.com/english/wiki/ggplot2-essentials",
+      "description": "*"
+    },
+    {
+      "name": "Efficient and beautiful data synthesis: Taking your tidyverse skills to the next level",
+      "url": "https://ourcodingclub.github.io/tutorials/dataviz-beautification-synthesis/",
+      "description": "*"
+    },
+    {
+      "name": "The Ultimate Guide to Get Started With ggplot2",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/18_ultimate_guide/18_ultimate_guide",
+      "description": "*"
+    },
+    {
+      "name": "Tips and tricks for ggplot2",
+      "url": "https://erikgahner.dk/2022/tips-and-tricks-for-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Intermediate, general",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Data visualization using ggplot2 (intermediate)",
+      "url": "https://rpubs.com/bpbond/727258",
+      "description": "*"
+    },
+    {
+      "name": "ggplot tricks",
+      "url": "https://github.com/teunbrand/ggplot_tricks",
+      "description": "*"
+    },
+    {
+      "name": "Iterative visualizations with ggplot2: no more copy-pasting",
+      "url": "https://www.elenadudukina.com/post/iterative-ggplotting/2021-06-20-iterative-plotting/",
+      "description": "*"
+    },
+    {
+      "name": "split polygon art",
+      "url": "https://github.com/cj-holmes/split-polygon-art",
+      "description": "*"
+    },
+    {
+      "name": "Theme customisation",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "3 alternatives to a discrete color scale legend in ggplot2",
+      "url": "https://www.nsgrantham.com/legend-alternatives-ggplot2",
+      "description": "*"
+    },
+    {
+      "name": "5 Powerful ggplot2 Extensions",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/20_ggplot_extensions/ggplot_extensions.html",
+      "description": "*"
+    },
+    {
+      "name": "10 Levels of ggplot2: From Basic to Beautiful",
+      "url": "https://medium.com/compassred-data-blog/10-levels-of-ggplot2-from-basic-to-beautiful-5ce3c4e7624f",
+      "description": "*"
+    },
+    {
+      "name": "10 Tips to Customize Text Color, Font, Size in ggplot2 with element_text()",
+      "url": "https://cmdlinetips.com/2021/05/tips-to-customize-text-color-font-size-in-ggplot2-with-element_text/",
+      "description": "*"
+    },
+    {
+      "name": "15 Tips to Customize lines in ggplot2 with element_line()",
+      "url": "https://cmdlinetips.com/2021/05/tips-to-customize-lines-in-ggplot2-with-element_line/",
+      "description": "*"
+    },
+    {
+      "name": "A complete guide to scales",
+      "url": "https://ggplot2tor.com/scales/",
+      "description": "*"
+    },
+    {
+      "name": "An overview of ggplot2 themes",
+      "url": "https://erikgahner.dk/2024/an-overview-of-ggplot2-themes/",
+      "description": "*"
+    },
+    {
+      "name": "Adding social media icons to charts with {ggplot2}",
+      "url": "https://nrennie.rbind.io/blog/adding-social-media-icons-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Alternatives to Simple Color Legends in ggplot2",
+      "url": "https://meghan.rbind.io/blog/color-legend/",
+      "description": "*"
+    },
+    {
+      "name": "Bar plot checklist",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/16_bars_checklist/16_bars_checklist.html",
+      "description": "*"
+    },
+    {
+      "name": "Changing Glyph in legend in ggplot2",
+      "url": "https://www.hvitfeldt.me/blog/changing-glyph-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Coloured text in {ggplot2}: {ggtext} vs {marquee}",
+      "url": "https://nrennie.rbind.io/blog/coloured-text-legend-ggplot-ggtext-marquee/",
+      "description": "*"
+    },
+    {
+      "name": "Creating and using custom ggplot2 themes",
+      "url": "https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/",
+      "description": "*"
+    },
+    {
+      "name": "Custom colour palettes for {ggplot2}",
+      "url": "https://www.jumpingrivers.com/blog/custom-colour-palettes-for-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Custom themes in ggplot2",
+      "url": "https://www.statworx.com/de/blog/custom-themes-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Designing monochrome data visualisations",
+      "url": "https://nrennie.rbind.io/blog/monochrome-data-visualisations/",
+      "description": "*"
+    },
+    {
+      "name": "Five Steps to Improve Your Chart Quickly",
+      "url": "https://rfortherestofus.com/2023/11/theme-minimal",
+      "description": "*"
+    },
+    {
+      "name": "Getting started with theme()",
+      "url": "https://www.jumpingrivers.com/blog/intro-to-theme-ggplot2-r/",
+      "description": "*"
+    },
+    {
+      "name": "ggplot Wizardry Hands-On",
+      "url": "https://z3tt.github.io/OutlierConf2021/",
+      "description": "*"
+    },
+    {
+      "name": "How to build a Tufte-style weather graph in R using ggplot2",
+      "url": "https://johndjohnson.info/post/how-to-build-a-tufte-style-weather-graph-in-r-using-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "How to make any plot look better",
+      "url": "https://ggplot2tutor.com/make_any_plot_look_better/make_any_plot_look_better/",
+      "description": "*"
+    },
+    {
+      "name": "Jazz up your ggplots!",
+      "url": "https://waterdata.usgs.gov/blog/ggplot-jazz/",
+      "description": "*"
+    },
+    {
+      "name": "Creating corporate colour palettes for ggplot2",
+      "url": "https://drsimonj.svbtle.com/creating-corporate-colour-palettes-for-ggplot2",
+      "description": "*"
+    },
+    {
+      "name": "Label line ends in time series with ggplot2",
+      "url": "https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2",
+      "description": "*"
+    },
+    {
+      "name": "Data Viz with Python and R: ggplot2",
+      "url": "https://datavizpyr.com/category/r/ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "The Evolution of a ggplot (Ep. 1)",
+      "url": "https://cedricscherer.netlify.com/2019/05/17/the-evolution-of-a-ggplot-ep.-1/",
+      "description": "*"
+    },
+    {
+      "name": "The guide to gradients in R and ggplot2",
+      "url": "https://jamesgoldie.dev/writing/stack-gradients-in-r/",
+      "description": "*"
+    },
+    {
+      "name": "ggplot2 Theme Elements Demonstration",
+      "url": "https://henrywang.nl/ggplot2-theme-elements-demonstration/",
+      "description": "*"
+    },
+    {
+      "name": "Quick and easy ways to deal with long labels in ggplot2",
+      "url": "https://www.andrewheiss.com/blog/2022/06/23/long-labels-ggplot/",
+      "description": "*"
+    },
+    {
+      "name": "Understanding text size and resolution in ggplot2",
+      "url": "https://www.christophenicault.com/post/understand_size_dimension_ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Variations on a ggtheme: Applying a unifying aesthetic to your plots",
+      "url": "https://www.cararthompson.com/talks/nhsr2022-ggplot-themes/",
+      "description": "*"
+    },
+    {
+      "name": "What we learned from creating a custom graphics package in R using ggplot2",
+      "url": "https://www.pewresearch.org/decoded/2022/10/04/what-we-learned-from-creating-a-custom-graphics-package-in-r-using-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Plot layers",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "6 Common ggplot2 Mistakes",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/21_common_ggplot_mistakes/21_common_ggplot_mistakes.html",
+      "description": "*"
+    },
+    {
+      "name": "A Quick How-to on Labelling Bar Graphs in ggplot2",
+      "url": "https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Annotated Forest Plots using ggplot2",
+      "url": "https://www.khstats.com/blog/forest-plots/",
+      "description": "*"
+    },
+    {
+      "name": "Correlation heat maps with {ggplot2}",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/24_correlation_heat_map/24_correlation_heat_map.html",
+      "description": "*"
+    },
+    {
+      "name": "Creating a cracked egg plot using {ggplot2} in R",
+      "url": "https://nrennie.rbind.io/blog/cracked-egg-plot-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Creating flowcharts with {ggplot2}",
+      "url": "https://nrennie.rbind.io/blog/2022-06-06-creating-flowcharts-with-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Creating typewriter-styled maps in {ggplot2}",
+      "url": "https://nrennie.rbind.io/blog/creating-typewriter-maps-r/",
+      "description": "*"
+    },
+    {
+      "name": "Creating upset charts with ggplot2",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/26_upset_charts/26_upset_charts.html",
+      "description": "*"
+    },
+    {
+      "name": "Easy geom recipes",
+      "url": "https://evamaerey.github.io/easy-geom-recipes/",
+      "description": "*"
+    },
+    {
+      "name": "Exploring ggplot2 boxplots - Defining limits and adjusting style",
+      "url": "https://waterdata.usgs.gov/blog/boxplots/",
+      "description": "*"
+    },
+    {
+      "name": "Exploring other {ggplot2} geoms",
+      "url": "https://ivelasq.rbind.io/blog/other-geoms/",
+      "description": "*"
+    },
+    {
+      "name": "ggpathway: A tutorial for pathway visualization using tidyverse, igraph, and ggraph",
+      "url": "https://github.com/cxli233/ggpathway",
+      "description": "*"
+    },
+    {
+      "name": "Heatmaps in ggplot2",
+      "url": "https://themockup.blog/posts/2020-08-28-heatmaps-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "How to add annotations in ggplot: should you use geoms or annotations?",
+      "url": "https://rfortherestofus.com/2023/10/annotate-vs-geoms",
+      "description": "*"
+    },
+    {
+      "name": "How to create diverging bar plots",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/22_diverging_bar_plot/22_diverging_bar_plot.html",
+      "description": "*"
+    },
+    {
+      "name": "Make Multi-point “dumbbell” Plots in ggplot2",
+      "url": "https://rud.is/b/2019/06/06/make-multi-point-dumbbell-plots-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Real Emojis in ggplot2",
+      "url": "https://www.hvitfeldt.me/blog/real-emojis-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Recreate a FiveThirtyEight Chicklet Stacked Bar Chart in ggplot2",
+      "url": "https://www.mikelee.co/posts/2020-02-08-recreate-fivethirtyeight-chicklet-stacked-bar-chart-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "geom_paired_raincloud(): A {ggplot2} geom for visualizing change in distribution between two conditions",
+      "url": "https://yjunechoe.github.io/posts/2020-07-13-geom-paired-raincloud/",
+      "description": "*"
+    },
+    {
+      "name": "Plot moving average in R using ggplot2",
+      "url": "https://datacornering.com/plot-moving-average-in-r-using-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Pyramid Plots in ggplot2",
+      "url": "https://www.njtierney.com/post/2022/08/09/ggplot-pyramid/",
+      "description": "*"
+    },
+    {
+      "name": "Radial Patterns in ggplot2",
+      "url": "https://ijeamaka-anyene.netlify.app/posts/2021-01-04-radial-patterns-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Storytelling in ggplot using rounded rectangles",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/11_rounded_rectangles/11_rounded_rectangles.html",
+      "description": "*"
+    },
+    {
+      "name": "Three Ways to Include Images in Your ggplots",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/27_images/27_images.html",
+      "description": "*"
+    },
+    {
+      "name": "Visualizing Distributions with Raincloud Plots (and How to Create Them with ggplot2)",
+      "url": "https://www.cedricscherer.com/2021/06/06/visualizing-distributions-with-raincloud-plots-and-how-to-create-them-with-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Visualizing ordinal variables",
+      "url": "https://octavio.me/posts/2021-07-23-ordinal-viz/",
+      "description": "*"
+    },
+    {
+      "name": "Waffle charts with svg images",
+      "url": "https://luisdva.github.io/rstats/wafflechart/",
+      "description": "*"
+    },
+    {
+      "name": "Regression models",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Plot Prediction Interval in R using ggplot2",
+      "url": "https://www.marsja.se/plot-prediction-interval-in-r-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Sexy up your logistic regression model with logit dotplots",
+      "url": "https://solomonkurz.netlify.app/post/2021-09-22-sexy-up-your-logistic-regression-model-with-logit-dotplots/",
+      "description": "*"
+    },
+    {
+      "name": "Spatial",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "6 easy ways to map population density in R",
+      "url": "https://milospopovic.net/6-ways-to-map-population-with-r.r/",
+      "description": "*"
+    },
+    {
+      "name": "Adding context to maps made with ggplot2",
+      "url": "https://www.mm218.dev/posts/2023-10-31-map-context/index.html",
+      "description": "*"
+    },
+    {
+      "name": "Bivariate maps with ggplot2 and sf",
+      "url": "https://timogrossenbacher.ch/2019/04/bivariate-maps-with-ggplot2-and-sf/",
+      "description": "*"
+    },
+    {
+      "name": "Beautiful Maps with R (I): Fishnets, Honeycombs and Pixels",
+      "url": "https://dieghernan.github.io/201906_Beautiful1/",
+      "description": "*"
+    },
+    {
+      "name": "Beautiful Maps with R (II): Fun with flags",
+      "url": "https://dieghernan.github.io/201906_Beautiful2/",
+      "description": "*"
+    },
+    {
+      "name": "Beautiful Maps with R (III): Patterns and hatched maps",
+      "url": "https://dieghernan.github.io/201912_Beautiful3/",
+      "description": "*"
+    },
+    {
+      "name": "Beautiful Maps with R (IV): Fun with flags revisited",
+      "url": "https://dieghernan.github.io/202201_maps-flags/",
+      "description": "*"
+    },
+    {
+      "name": "Beautiful Maps with R (V): Point densities",
+      "url": "https://dieghernan.github.io/202312_bertin_dots/",
+      "description": "*"
+    },
+    {
+      "name": "Combining maps and patterns with {ggplot2}",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/25_maps_patterns/25_maps_patterns.html",
+      "description": "*"
+    },
+    {
+      "name": "Drawing waterlines with ggplot2 in R",
+      "url": "https://brunomioto.com/posts/waterlines/en/",
+      "description": "*"
+    },
+    {
+      "name": "How to fill maps with density gradients with R, {ggplot2}, and {sf}",
+      "url": "https://www.andrewheiss.com/blog/2023/07/28/gradient-map-fills-r-sf/",
+      "description": "*"
+    },
+    {
+      "name": "How to make fancy road trip maps with R and OpenStreetMap",
+      "url": "https://www.andrewheiss.com/blog/2023/06/01/geocoding-routing-openstreetmap-r/",
+      "description": "*"
+    },
+    {
+      "name": "How to use a histogram as a legend in {ggplot2}",
+      "url": "https://www.andrewheiss.com/blog/2025/02/19/ggplot-histogram-legend/",
+      "description": "*"
+    },
+    {
+      "name": "Inset maps with ggplot2",
+      "url": "https://geocompx.org/post/2019/ggplot2-inset-maps/",
+      "description": "*"
+    },
+    {
+      "name": "Making Middle Earth maps with R",
+      "url": "https://www.andrewheiss.com/blog/2023/04/26/middle-earth-mapping-sf-r-gis/",
+      "description": "*"
+    },
+    {
+      "name": "Plot RGB satellite imagery in true-color with ggplot2 in R",
+      "url": "https://medium.com/@tobias.stalder.geo/plot-rgb-satellite-imagery-in-true-color-with-ggplot2-in-r-10bdb0e4dd1f",
+      "description": "*"
+    },
+    {
+      "name": "Visualising the 2022 Australian federal election with geom_sugarbag",
+      "url": "https://www.mattcowgill.com/posts/election_sugarbag/election_sugarbag.html",
+      "description": "*"
+    },
+    {
+      "name": "Interactive",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Creating interactive visualizations with {ggiraph} (with or without Shiny)",
+      "url": "https://albert-rapp.de/posts/ggplot2-tips/17_ggiraph/17_ggiraph.html",
+      "description": "*"
+    },
+    {
+      "name": "Presentation",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Align multiple ggplot2 plots by axis",
+      "url": "https://divingintogeneticsandgenomics.rbind.io/post/align-multiple-ggplot2-plots-by-axis/",
+      "description": "*"
+    },
+    {
+      "name": "Annotated equations in ggplot2: Importing latex into ggplot2",
+      "url": "https://wjschne.github.io/posts/2023-07-23-latex-equation-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Combining plots in ggplot2",
+      "url": "https://medium.com/@pawanjangra1198/combining-plots-in-ggplot2-9699acaa2942",
+      "description": "*"
+    },
+    {
+      "name": "Designing ggplots: making clear figures that communicate",
+      "url": "https://designing-ggplots.netlify.com/",
+      "description": "*"
+    },
+    {
+      "name": "How to use natural and base 10 log scales in ggplot2",
+      "url": "https://www.andrewheiss.com/blog/2022/12/08/log10-natural-log-scales-ggplot/",
+      "description": "*"
+    },
+    {
+      "name": "Layered Presentation of Graphics with +aes() in ggplot2",
+      "url": "https://evangelinereynolds.netlify.com/post/layered-presentation-of-graphics-with-aes-in-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Label line ends in time series with ggplot2",
+      "url": "https://drsimonj.svbtle.com/label-line-ends-in-time-series-with-ggplot2",
+      "description": "*"
+    },
+    {
+      "name": "Reordering and facetting for ggplot2",
+      "url": "https://juliasilge.com/blog/reorder-within/",
+      "description": "*"
+    },
+    {
+      "name": "Save space in faceted plots",
+      "url": "https://ikashnitsky.github.io/2023/shrink-space/index.html",
+      "description": "*"
+    },
+    {
+      "name": "Self-documenting plots in ggplot2",
+      "url": "https://www.tjmahr.com/self-titled-ggplot2-plots/",
+      "description": "*"
+    },
+    {
+      "name": "Statistics",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Summary statistics",
+      "url": "https://ggplot2tutor.com/summary_statistics/summary_statistics/",
+      "description": "*"
+    },
+    {
+      "name": "Demystifying stat_ layers in {ggplot2}",
+      "url": "https://yjunechoe.github.io/posts/2020-09-26-demystifying-stat-layers-ggplot2/",
+      "description": "*"
+    },
+    {
+      "name": "Python",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Annotated area charts with plotnine",
+      "url": "https://nrennie.rbind.io/blog/plotnine-annotated-area-chart/",
+      "description": "*"
+    },
+    {
+      "name": "Plotnine: Grammar of Graphics for Python",
+      "url": "https://jeroenjanssens.com/plotnine/",
+      "description": "*"
+    },
+    {
+      "name": "Describing Distributions",
+      "url": "https://md.ekstrandom.net/resources/data-science/distributions/",
+      "description": "*"
+    }
+  ],
+  "Video tutorials": [
+    {
+      "name": "Beginner/intermediate",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "ggplot2 workshop part 1",
+      "url": "https://www.youtube.com/watch?v=h29g21z0a68",
+      "description": "*"
+    },
+    {
+      "name": "ggplot2 workshop part 2",
+      "url": "https://www.youtube.com/watch?v=0m4yywqNPVY",
+      "description": "*"
+    },
+    {
+      "name": "A short introduction to grammar of graphics (via ggplot2)",
+      "url": "https://www.youtube.com/playlist?list=PLwJRxp3blEvaYRYWTqQ5ScIow8ZBm3Q92",
+      "description": "*"
+    },
+    {
+      "name": "Customization",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "How to fix the sizes in your ggplots",
+      "url": "https://www.youtube.com/watch?v=7kWW8rkpfqc",
+      "description": "*"
+    },
+    {
+      "name": "How to make Boxplots in R More Informative (ggplot2 and Extension Packages)",
+      "url": "https://www.youtube.com/watch?v=kQ8CtRV0kSQ",
+      "description": "*"
+    },
+    {
+      "name": "ggplot2 Wizardry: My Favorite Tricks and Secrets for Beautiful Plots in R",
+      "url": "https://github.com/z3tt/OutlierConf2021",
+      "description": "*"
+    },
+    {
+      "name": "Beyond Bar and Box Plots: Chart Alternatives and How to Design Them with ggplot2",
+      "url": "https://github.com/z3tt/beyond-bar-and-box-plots",
+      "description": "*"
+    },
+    {
+      "name": "Perfect Bar Charts in 150 Seconds",
+      "url": "https://www.youtube.com/watch?v=15ZlfVA2Cl8",
+      "description": "*"
+    },
+    {
+      "name": "Recreate a real-world, complex dataviz with R & ggplot",
+      "url": "https://www.youtube.com/watch?v=k34IjRXq1BI",
+      "description": "*"
+    },
+    {
+      "name": "Packages",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Create Raincloud Plots with ggplot2 | A Step by Step Guide",
+      "url": "https://www.youtube.com/watch?v=qeys6CQBzxo",
+      "description": "*"
+    },
+    {
+      "name": "Building a ggplot2 rollercoaster: Creating amazing 3D data visualizations in R",
+      "url": "https://www.youtube.com/watch?v=hRKx-obmFx8",
+      "description": "*"
+    },
+    {
+      "name": "esquisse: ggplot2 builder with Tableau Drag-and-Drop Interface",
+      "url": "https://www.youtube.com/watch?v=6LV_p3Zi-LM",
+      "description": "*"
+    },
+    {
+      "name": "How to Plot Statistical Group Comparisons in R: ggstatsplot",
+      "url": "https://www.youtube.com/watch?v=Yhz0TKP_CUc",
+      "description": "*"
+    },
+    {
+      "name": "Make Your Charts Interactive With the {ggiraph} Package",
+      "url": "https://www.youtube.com/watch?v=ZyjwF3FMjFE",
+      "description": "*"
+    }
+  ],
+  "TidyTuesday": [
+    {
+      "name": "Official repository",
+      "url": "https://github.com/rfordatascience/tidytuesday",
+      "description": ""
+    },
+    {
+      "name": "Popular submissions",
+      "url": "",
+      "description": ""
+    },
+    {
+      "name": "Deepali Kank",
+      "url": "https://github.com/deepdk/TidyTuesday-2022",
+      "description": "*"
+    },
+    {
+      "name": "Georgios Karamanis",
+      "url": "https://github.com/gkaramanis/tidytuesday",
+      "description": "*"
+    },
+    {
+      "name": "Cédric Scherer",
+      "url": "https://github.com/z3tt/TidyTuesday",
+      "description": "*"
+    },
+    {
+      "name": "Christophe Nicault",
+      "url": "https://github.com/cnicault/tidytuesday",
+      "description": "*"
+    },
+    {
+      "name": "Nicola Rennie",
+      "url": "https://github.com/nrennie/tidytuesday",
+      "description": "*"
+    },
+    {
+      "name": "Ryan Hart",
+      "url": "https://github.com/curatedmess/TidyTuesday",
+      "description": "*"
+    },
+    {
+      "name": "Tanya Shapiro",
+      "url": "https://github.com/tashapiro/TidyTuesday",
+      "description": "*"
+    }
+  ],
+  "Miscellaneous": [
+    {
+      "name": "A generated list of repos containing themes for ggplot2",
+      "url": "https://github.com/jmcastagnetto/ggplot2_themes_in_github/",
+      "description": ""
+    },
+    {
+      "name": "All hail ggplot2—The code powering all those excellent charts is 10 years old",
+      "url": "https://qz.com/1007328/all-hail-ggplot2-the-code-powering-all-those-excellent-charts-is-10-years-old/",
+      "description": ""
+    },
+    {
+      "name": "awesome-r-dataviz",
+      "url": "https://github.com/krzjoa/awesome-r-dataviz",
+      "description": ""
+    },
+    {
+      "name": "Comparing ggplot2 and R Base Graphics",
+      "url": "https://flowingdata.com/2016/03/22/comparing-ggplot2-and-r-base-graphics/",
+      "description": ""
+    },
+    {
+      "name": "Most upvoted ggplot2 questions on Stack Overflow",
+      "url": "https://stackoverflow.com/questions/tagged/ggplot2?tab=Votes",
+      "description": ""
+    }
+  ]
+}
