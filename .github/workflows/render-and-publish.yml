@@ -44,7 +44,7 @@ jobs:
         with:
           name: json-data
           path: readme_data.json
-          retention-days: 1
+          if-no-files-found: error
 
   render-and-deploy:
     needs: convert-to-json
