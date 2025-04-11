@@ -21,7 +21,35 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check-readme:
+    runs-on: ubuntu-latest
+    outputs:
+      should_convert: ${{ steps.check.outputs.should_convert }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      
+      - name: Check README changes
+        id: check
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            echo "Manual trigger detected"
+            echo "should_convert=true" >> $GITHUB_OUTPUT
+          else
+            git diff --name-only HEAD^ HEAD > changes.txt
+            if grep -q "README.md" changes.txt; then
+              echo "README.md was modified"
+              echo "should_convert=true" >> $GITHUB_OUTPUT
+            else
+              echo "README.md was not modified"
+              echo "should_convert=false" >> $GITHUB_OUTPUT
+            fi
+          fi
+
   convert-to-json:
+    needs: check-readme
+    if: needs.check-readme.outputs.should_convert == 'true'
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -65,7 +93,8 @@ jobs:
           git push
 
   render-and-deploy:
-    needs: convert-to-json
+    needs: [check-readme, convert-to-json]
+    if: always() && needs.check-readme.result == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
